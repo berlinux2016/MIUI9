@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!-- To Translate -->
-  <string name="default_folder_name">Unnamed folder</string>
-     <string name="note_description_content">The Notes app is a great tool for recording your ideas. It has built-in reminders and syncs your items to Mi Cloud so you can access them anywhere, anytime. Make sure you can do without these features before you delete the app.</string>
-     <string name="note_description_title">About Notes</string>
-     <string name="refuse_to_share_as_pic_because_of_content">This note is too big to share.</string>
-     <string name="refuse_to_share_as_pic_because_of_loading">Wait until the note is loaded and try again.</string>
-     <string name="sns_content_default">Share photo</string>
+  <string name="default_folder_name">Unbenannter Ordner</string>
+     <string name="note_description_content">Die Notiz App ist ein tolles Tool um Ihre Ideen festzuhalten. Es verfügt über Erinnerungen und synchronisiert Ihre Notizen mit der Mi Cloud, damit Sie überall und jederzeit darauf zugreifen können. Stellen Sie sicher, dass Sie diese Funktionen nicht benötigen, bevor sie die App deinstallieren.</string>
+     <string name="note_description_title">Über Notizen</string>
+     <string name="refuse_to_share_as_pic_because_of_content">Diese Notiz ist zu groß um sie zu teilen.</string>
+     <string name="refuse_to_share_as_pic_because_of_loading">Warten Sie bis die Notiz geladen ist und versuchen Sie es erneut.</string>
+     <string name="sns_content_default">Foto teilen</string>
 	 
   <string name="action_folder_description">Ordner anzeigen</string>
   <string name="action_mode_switcher_grid_description">Rasteransicht</string>
