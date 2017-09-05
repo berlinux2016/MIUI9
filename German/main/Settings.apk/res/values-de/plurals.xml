@@ -2,7 +2,7 @@
 <resources>
   <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
     <item quantity="other">Extrem kurze Verzögerungen (%1$d ms)</item>
-    <item quantity="one">Extrem kurze Verzögerung(%1$d ms)</item>
+    <item quantity="one">Extrem kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
     <item quantity="other">Lange Verzögerungen (%1$d ms)</item>
@@ -18,11 +18,11 @@
   </plurals>
   <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
     <item quantity="other">Sehr kurze Verzögerungen (%1$d ms)</item>
-    <item quantity="one">Sehr kurze Verzögerung(%1$d ms)</item>
+    <item quantity="one">Sehr kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="data_saver_unrestricted_summary">
-    <item quantity="other">Es ist %1$d Apps erlaubt Daten zu nutzen, wenn der Daten Sparer an ist</item>
-    <item quantity="one">Es ist 1 App erlaubt Daten zu nutzen, wenn der Daten Sparer an ist</item>
+    <item quantity="other">Es ist %1$d Apps erlaubt Daten zu nutzen, wenn der Daten Saver an ist</item>
+    <item quantity="one">Es ist 1 App erlaubt Daten zu nutzen, wenn der Daten Saver an ist</item>
   </plurals>
   <plurals name="dlg_remove_locales_title">
     <item quantity="other">Ausgewählte Sprachen entfernen?</item>
