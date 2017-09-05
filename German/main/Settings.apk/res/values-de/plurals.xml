@@ -62,24 +62,24 @@
   </plurals>
   <plurals name="ssl_ca_cert_info_message">
     <item quantity="other">
-      "%s haben Zertifikate auf Ihrem Arbeitsprofil installiert, mit denen Netzwerkaktivitäten, von Emails, Apps und sicheren Webseiten, überwacht werden können.
+      "%s haben auf deinem Gerät Zertifizierungsstellen installiert, die es Ihnen ermöglichen, die Netzwerkaktivität deines Geräts, einschließlich E-Mails, Anwendungen und sichere Websites, zu überwachen.
 
       Für weitere Informationen über diese Zertifikate kontaktieren Sie Ihren Admin."
     </item>
     <item quantity="one">
-      "%s hat ein Zertifikat auf Ihrem Arbeitsprofil installiert, mit dem Netzwerkaktivitäten, von Emails, Apps und sicheren Webseiten, überwacht werden können.
+      "%s hat auf deinem Gerät Zertifizierungsstellen installiert, die ermöglichen, die Netzwerkaktivität deines Geräts, einschließlich E-Mails, Anwendungen und sichere Websites, zu überwachen.
 
       Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin."
     </item>
   </plurals>
   <plurals name="ssl_ca_cert_info_message_device_owner">
     <item quantity="other">
-      "%s haben Zertifikate auf Ihrem Arbeitsprofil installiert, mit denen Netzwerkaktivitäten, von Emails, Apps und sicheren Webseiten, überwacht werden können.
+      "%s haben auf deinem Gerät Zertifizierungsstellen installiert, die es Ihnen ermöglichen, die Netzwerkaktivität deines Geräts, einschließlich E-Mails, Anwendungen und sichere Websites, zu überwachen.
 
       Für weitere Informationen über diese Zertifikate kontaktieren Sie Ihren Admin."
     </item>
     <item quantity="one">
-      "%s hat ein Zertifikat auf Ihrem Arbeitsprofil installiert, mit dem Netzwerkaktivitäten, von Emails, Apss und sicheren Webseiten, überwacht werden können.
+      "%s hat auf deinem Gerät Zertifizierungsstellen installiert, die ermöglichen, die Netzwerkaktivität deines Geräts, einschließlich E-Mails, Anwendungen und sichere Websites, zu überwachen.
 
       Für weitere Informationen über dieses Zertifikat kontaktieren Sie Ihren Admin."
     </item>
