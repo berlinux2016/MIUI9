@@ -16,14 +16,14 @@
     <item>Standard</item>
   </string-array>
   <string-array name="connect_mode_entries">
-    <item>comtible mode</item>
-    <item>high mode</item>
+    <item>Comtible Modus</item>
+    <item>Hoch</item>
   </string-array>
   <string-array name="edge_touch_volume_action">
-    <item>Click adjust - Double click trigger</item>
-    <item>Slip adjust - Slip trigger</item>
-    <item>Click adjust - Click trigger</item>
-    <item>Click adjust - Long Click trigger</item>
+    <item>Klick Einstellung - Doppelklick Auslösung</item>
+    <item>Wisch Einstellung - Wisch Auslösung</item>
+    <item>Klick Einstellung - Klick Auslösung</item>
+    <item>Klick Einstellung - Lange Klick Auslösung</item>
   </string-array>
   <string-array name="miui_entries_font_size">
     <item>S</item>
