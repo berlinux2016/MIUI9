@@ -21,8 +21,8 @@
     <item quantity="one">Sehr kurze Verzögerung (%1$d ms)</item>
   </plurals>
   <plurals name="data_saver_unrestricted_summary">
-    <item quantity="other">Es ist %1$d Apps erlaubt Daten zu nutzen, wenn der Daten Saver an ist</item>
-    <item quantity="one">Es ist 1 App erlaubt Daten zu nutzen, wenn der Daten Saver an ist</item>
+    <item quantity="other">Es ist %1$d Apps erlaubt Daten zu nutzen, wenn der Daten Saver aktiv ist</item>
+    <item quantity="one">Es ist 1 App erlaubt Daten zu nutzen, wenn der Daten Saver aktiv ist</item>
   </plurals>
   <plurals name="dlg_remove_locales_title">
     <item quantity="other">Ausgewählte Sprachen entfernen?</item>
