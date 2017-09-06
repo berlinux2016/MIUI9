@@ -49,8 +49,8 @@
     <item quantity="one">%d Sekunden warten und erneut versuchen.</item>
   </plurals>
   <plurals name="notification_summary">
-    <item quantity="other">%d Apps vom senden blockiert</item>
-    <item quantity="one">%d App vom senden blockiert</item>
+    <item quantity="other">%d Apps vom Senden blockiert</item>
+    <item quantity="one">%d App vom Senden blockiert</item>
   </plurals>
   <plurals name="print_settings_title">
     <item quantity="other">%d Druckaufträge</item>
