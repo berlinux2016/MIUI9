@@ -349,52 +349,50 @@
   <string name="tab_gift">Geschenke</string>
   <string name="tab_guide">Guide</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Ergebnis: Falscher Netzanbietername&lt;br/>&lt;br/>Setze: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-
-  <!--To Translate-->
   <string name="tc_diagnostic_fragment_default">
-    "About diagnostics
-    1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-    2. You can leave this page during the diagnostics, it will be carried out in the background."
+    "Über Diagnose
+    1. Das Gerät stellt eine Verbindung zum Netzwerk des Netzbetreibers her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Netzbetreibers. Das kann bis zu 5 Minuten dauern.
+    2. Sie können diese Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."
   </string>
-  <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Result: Wrong carrier&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Actual carrier: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Result: Couldn't complete diagnostics&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Result: Wrong location&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Actual location: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Result: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Security app features weren't updated.&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
-  <string name="tc_sms_report_type">Report type</string>
-  <string name="title_chain_start">Restrict chain start</string>
-  <string name="title_data_flow_monitor">Data usage monitor is on</string>
-  <string name="title_dev_model_off">"Developer's options are off"</string>
-  <string name="title_device_not_root">"Root access wasn't granted"</string>
-  <string name="title_garbage_less">App cache is small</string>
-  <string name="title_miui_update_latest">MIUI is up to date</string>
-  <string name="title_payment_protection">Payments are secured</string>
-  <string name="title_system_auto_download">Updates will be downloaded automatically</string>
-  <string name="toast_keyword_blank">You need to enter a keyword</string>
-  <string name="toast_keyword_exist">Keyword added</string>
-  <string name="toast_keyword_invalid">Invalid keyword</string>
-  <string name="top_game">Top games</string>
-  <string name="top_load_fail_detail">"Couldn't load, tap to try again"</string>
-  <string name="top_no_network_detial">"Couldn't load, check network connection and try again"</string>
-  <string name="try_game">Try</string>
-  <string name="two_address_choose_hint">%1$s and %2$s</string>
-  <string name="uninstall_danagerous_btn">Uninstall</string>
-  <string name="uninstall_danagerous_desc">\"%s\" may damage your device</string>
-  <string name="uninstall_danagerous_msg">\"%s\" may damage your device, lower its performance, or cause reboots.</string>
-  <string name="uninstall_danagerous_title">Uninstall malicious app</string>
+  <string name="tc_diagnostic_notification_summary">Justierung 5 Mal hintereinander fehlgeschlagen. Tippen, um Diagnose zu starten.</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Ergebnis: Falscher Netzanbieter&lt;br/>&lt;br/>Setze Anbieter: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Aktueller Betreiber: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Ergebnis: Diagnose konnte nicht abgeschlossen werden&lt;br/>&lt;br/>Diesen Fehler melden, um die MIUI Diagnose zu verbessern&lt;/font>"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Ergebnis: Falscher Standort&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Aktueller Standort: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Ergebnis: Netzanbieter und Betreiber korrekt eingestellt&lt;br/>&lt;br/>Justierung konnte nicht eingestellt werden:&lt;br/>1. Am Anfang oder Ende des Monats können die Netzwerkstatistiken möglicherweise nicht zuverlässig sein.&lt;br/>2. Funktionen der Sicherheitsapp wurden nicht aktualisiert.&lt;br/>&lt;br/>Diesen Fehler melden um die MIUI Diagnose zu verbessern.&lt;/font>"</string>
+  <string name="tc_sms_report_type">Berichtsart</string>
+  <string name="title_chain_start">Verketteter Start einschränken</string>
+  <string name="title_data_flow_monitor">Datenverbrauchsanzeige ist aktiviert</string>
+  <string name="title_dev_model_off">Entwickleroptionen sind ausgeschaltet</string>
+  <string name="title_device_not_root">Root konnte nicht gewährt werden</string>
+  <string name="title_garbage_less">App Cache ist voll</string>
+  <string name="title_miui_update_latest">MIUI ist aktuell</string>
+  <string name="title_payment_protection">Zahlungen sind sicher</string>
+  <string name="title_system_auto_download">Updates werden automatisch heruntergeladen</string>
+  <string name="toast_keyword_blank">Geben Sie ein Stichwort ein</string>
+  <string name="toast_keyword_exist">Stichwort hinzgefügt</string>
+  <string name="toast_keyword_invalid">Ungültiges Stichwort</string>
+  <string name="top_game">Top Spiele</string>
+  <string name="top_load_fail_detail">Laden fehlgeschlagen. Tippen um erneut zu versuchen.</string>
+  <string name="top_no_network_detial">Laden fehlgeschlagen. Netzwerkverbindung überprüfen und erneut versuchen</string>
+  <string name="try_game">Testen</string>
+  <string name="two_address_choose_hint">%1$s und %2$s</string>
+  <string name="uninstall_danagerous_btn">Deinstallieren</string>
+  <string name="uninstall_danagerous_desc">\"%s\" kann Ihr Gerät beschädigen</string>
+  <string name="uninstall_danagerous_msg">\"%s\" kann Ihr Gerät beschädigen, die Leistung beeinträchtigen oder ungewollte Neustarts verursachen.</string>
+  <string name="uninstall_danagerous_title">Bösartige Apps deinstallieren</string>
   <string name="unlock_pattern">
-    <u>Pattern</u>
+    <u>Muster</u>
   </string>
-  <string name="unlock_pattern_to_bind_fingerprint">Enter password to activate fingerprint</string>
-  <string name="virus_auto_update_engine">Auto updates：%s</string>
+  <string name="unlock_pattern_to_bind_fingerprint">Passwort eingeben um Fingerabruckerkennung zu aktivieren</string>
+  <string name="virus_auto_update_engine">Automatische Updates：%s</string>
   <string name="website">Website</string>
-  <string name="wifi_optizition_loading">Turning on Xunyou Network speed boost…</string>
-  <string name="wifi_optizition_tip">Turn on WLAN speed boost to make WLAN connection more stable. A small amount of mobile data will be used.</string>
-  <string name="wifi_optizition_title">WLAN speed boost</string>
-  <string name="wlan_booster">WLAN speed boost</string>
-  <string name="wlan_change_protection_detail">"Don't switch to WLAN automatically when connected to mobile data network"</string>
-  <string name="wlan_change_protection_title">Prevent switching networks</string>
-  <string name="xunyou_pay_webview">Xunyou services</string>
+  <string name="wifi_optizition_loading">Xunyou Network Speed Boost aktivieren…</string>
+  <string name="wifi_optizition_tip">WLAN Geschwindigkeitsoptimierung aktivieren, um die WLAN Verbindung stabiler zu machen. Dazu werden zu einem kleinen Teil mobile Daten genutzt.</string>
+  <string name="wifi_optizition_title">WLAN Geschwindigkeitsoptimierung</string>
+  <string name="wlan_booster">WLAN Geschwindigkeitsoptimierung</string>
+  <string name="wlan_change_protection_detail">Automatischen wechsel in ein WLAN Netzwerk bei aktivierten mobilen Daten verhindern"</string>
+  <string name="wlan_change_protection_title">Netzwerkwechsel verhindern</string>
+  <string name="xunyou_pay_webview">Xunyou Dienste</string>
 
   <string name="Call_ADRESS">Gebietsperrliste</string>
   <string name="Call_BLACKLIST">Anrufsperrliste</string>
