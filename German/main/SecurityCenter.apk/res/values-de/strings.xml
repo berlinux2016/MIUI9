@@ -338,8 +338,8 @@
   <string name="st_tab_title">%1$s (SIM %2$d)</string>
   <string name="st_title_show_antispam_notification">Sperrlistenbenachrichtigungen</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
-  <string name="start">Start</string>
-  <string name="start_game">Start</string>
+  <string name="start">Starten</string>
+  <string name="start_game">Starten</string>
   <string name="still_retain_btn">Behalten</string>
   <string name="support_game_booster_tips">Geschwindigkeit optimieren &amp; Spielerfahrung verbessern</string>
   <string name="sys_cpu_title">CPU Nutzung</string>
