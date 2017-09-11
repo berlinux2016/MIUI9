@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>  
+<resources>  
+ <string name="permdesc_useEmbms">Ermöglicht der App den Zugriff auf Multicast-Streamingdienste. Bösartige Anwendungen können zusätzliche Datenkosten verursachen.</string>  
+ <string name="permlab_useEmbms">Zugriff auf Embms Service für Multicast-Streaming erlauben</string>  
+</resources>  
