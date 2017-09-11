@@ -167,10 +167,6 @@
   <string name="ivr_menu_dialing_msg_no_mute">Übertragung zum ausgewähltem Dienst (Fehlermeldungen ignorieren)…</string>
   <string name="ivr_menu_list_sub_menu_count_format">%s drücken</string>
   <string name="ivr_menu_list_title">Sprachmenü</string>
-  <string name="jeejen_answer_call_text">Anruf beantworten</string>
-  <string name="jeejen_end_call_text">Anruf beenden</string>
-  <string name="jeejen_reject_call_text">Anruf abweisen</string>
-  <string name="jeejen_toggle_dialpad_text">Tastenfeld</string>
   <string name="keep_wait_call_back">Weiter warten</string>
   <string name="livetalk_dial">Aufladen</string>
   <string name="livetalk_hangup">Auflegen</string>
