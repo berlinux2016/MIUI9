@@ -2823,10 +2823,11 @@
   <string name="traffic_setting_extra_pkg_title">Weitere Einstellungen</string>
   <string name="traffic_setting_extra_traffic_title">Weitere Einstellungen</string>
   <string name="traffic_setting_fragment_area">Standort</string>
-  <string name="traffic_setting_fragment_area_dual">%s Standort</string>
   <string name="traffic_setting_fragment_brand">Marke</string>
   <string name="traffic_setting_fragment_button1_text">Abbrechen</string>
   <string name="traffic_setting_fragment_button2_text">Speichern</string>
+  <string name="traffic_setting_fragment_city">Stadt</string>
+  <string name="traffic_setting_fragment_default">Auswählen</string>
   <string name="traffic_setting_fragment_find_brand">Marke suchen?</string>
   <string name="traffic_setting_fragment_get_template_falure">"Kann nicht zum Netzwerk verbinden. Überprüfe die Verbindung und versuche es erneut."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Nicht mehr anzeigen"</string>
@@ -2834,6 +2835,8 @@
   <string name="traffic_setting_fragment_no_network">"Kann nicht zum Netzwerk verbunden werden"</string>
   <string name="traffic_setting_fragment_null">Leer</string>
   <string name="traffic_setting_fragment_operator">Mobilfunkbetreiber</string>
+  <string name="traffic_setting_fragment_operator_setting">Einstellungen Mobilfunkbetreiber</string>
+  <string name="traffic_setting_fragment_province">Region</string>
   <string name="traffic_setting_fragment_operator_setting">Einstellungen Mobilfunkbetreiber</string> 
   <string name="traffic_setting_fragment_province">Region</string> 
   <string name="traffic_setting_fragment_send_num">Nummer des Mobilfunkbetreibers</string>
