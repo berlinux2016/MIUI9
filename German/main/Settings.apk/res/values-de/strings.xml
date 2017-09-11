@@ -1172,7 +1172,7 @@
   <string name="contributors_title">Mitwirkende</string>
   <string name="controls_label">Steuerung</string>
   <string name="controls_subtitle">Energieverbrauch anpassen</string>
-  <string name="convenience_key_category_title">Komfortschlüssel</string>
+  <string name="convenience_key_category_title">Systemsteuerung</string>
   <string name="convert_to_fbe_warning">
     "Konvertieren von Datenpartitionen in dateibasierte Verschlüsselung.
     !!Achtung!! Dies löscht alle Ihre Daten.
@@ -2229,9 +2229,6 @@
   <string name="keep_screen_on">Aktiv lassen</string>
   <string name="keep_screen_on_summary">Bildschirm während des Ladevorgangs nicht ausschalten</string>
   <string name="kernel_version">Kernelversion</string>
-  <string name="key_position_cat">Tastenposition</string>
-  <string name="key_settings">Tasten</string>
-  <string name="key_settings_title">Tasten</string>
   <string name="keyboard_and_input_methods_category">Tastatur</string>
   <string name="keyboard_assistance_category">Tastatur-Hilfe</string>
   <string name="keyboard_layout_default_label">Standard</string>
@@ -4127,7 +4124,6 @@
   <string name="screen_key_long_press">Langer Tastendruck</string>
   <string name="screen_key_long_press_action">Optionen</string>
   <string name="screen_key_long_press_timeout">Verzögerung</string>
-  <string name="screen_key_position">Navigationstasten</string>
   <string name="screen_key_press">Kurzer Tastendruck</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
