@@ -10,7 +10,8 @@
 <string name="key_gesture_function_optional">Optionale Gesten und Tasten</string>  
 <string name="key_gesture_function_preview">Gesten- und Tastenvorschau</string>  
 <string name="key_gesture_function_shortcut">Funktionsshortcut</string>  
-<string name="key_none">Keine</string>  
+<string name="key_none">Keine</string> 
+<string name="key_position_cat">Tastenpositionen</string> 
 <string name="key_settings">Gesten- und Tastenshortcut</string>  
 <string name="key_settings_title">Gesten- und Tastenshortcut</string>  
 <string name="key_system_control">Systemsteuerung</string>  
@@ -4120,6 +4121,7 @@
   <string name="screen_key_long_press">Langer Tastendruck</string>
   <string name="screen_key_long_press_action">Optionen</string>
   <string name="screen_key_long_press_timeout">Verzögerung</string>
+  <string name="screen_key_position">Navigationstasten</string>
   <string name="screen_key_press">Kurzer Tastendruck</string>
   <string name="screen_key_press_action">Auslösefunktion</string>
   <string name="screen_locking_sounds_title">Bildschirmsperrentöne</string>
