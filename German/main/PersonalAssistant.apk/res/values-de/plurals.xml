@@ -1,52 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <!--To Translate-->
     <plurals name="payment_record_menu_select_num">
-        <item quantity="other">Selected %s items</item>
-        <item quantity="one">Selected %s item</item>
+        <item quantity="other">%s Elemente ausgewählt</item>
+        <item quantity="one">%s Element ausgewählt</item>
     </plurals>
     <plurals name="payment_record_dialog_delete_message">
-        <item quantity="other">Delete %s items from payment?</item>
-        <item quantity="one">Delete %s item from payment?</item>
+        <item quantity="other">%s Elemente von der Zahlung löschen?</item>
+        <item quantity="one">%s Element von der Zahlung löschen?</item>
     </plurals>
     <plurals name="time_minute_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">%d minute ago</item>
+        <item quantity="other">vor %d Minuten</item>
+        <item quantity="one"> vor %d Minute</item>
     </plurals>
     <plurals name="time_hour_ago">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">%d hour ago</item>
+        <item quantity="other">vor %d Stunden</item>
+        <item quantity="one">vor %d Stunde</item>
     </plurals>
     <plurals name="main_delete_desc">
-        <item quantity="other">Remove %s items from favorites?</item>
-        <item quantity="one">Remove %s item from favorites?</item>
+        <item quantity="other">%s Elemente aus Favoriten entfernen?</item>
+        <item quantity="one">%s Element aus Favoriten entfernen?</item>
     </plurals>
     <plurals name="main_mark_select_num">
-        <item quantity="other">Selected %s items</item>
-        <item quantity="one">Selected %s item</item>
+        <item quantity="other">%s Elemente ausgewählt</item>
+        <item quantity="one">%s Element ausgewählt</item>
     </plurals>
     <plurals name="main_mark_fav_num">
-        <item quantity="other">Marked %s items as important</item>
-        <item quantity="one">Marked %s item as important</item>
+        <item quantity="other">%s Elemente als unwichtig markiert</item>
+        <item quantity="one">%s Element als unwichtig markiert</item>
     </plurals>
     <plurals name="sms_minute_suffix">
-        <item quantity="other">In %d minutes</item>
-        <item quantity="one">In %d minute</item>
+        <item quantity="other">In %d Minuten</item>
+        <item quantity="one">In %d Minute</item>
     </plurals>
     <plurals name="sms_hour_suffix">
-        <item quantity="other">In %d hours</item>
-        <item quantity="one">In %d hour</item>
+        <item quantity="other">In %d Stunden</item>
+        <item quantity="one">In %d Stunde</item>
     </plurals>
     <plurals name="sms_day_suffix">
-        <item quantity="other">In %d days</item>
-        <item quantity="one">In %d day</item>
+        <item quantity="other">In %d Tagen</item>
+        <item quantity="one">In %d Tag</item>
     </plurals>
     <plurals name="sms_title_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">%d hour</item>
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
     </plurals>
     <plurals name="sms_title_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
+        <item quantity="other">%d Minuten</item>
+        <item quantity="one">%d Minute</item>
     </plurals>
 </resources>
