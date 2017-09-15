@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--To Translate-->
-    <string-array name="map_keyword">
-        <item>拥堵</item>
-        <item>公里拥堵</item>
-        <item>公里缓行</item>
-        <item>道路施工</item>
+      <string-array name="map_keyword">
+        <item>Stau</item>
+        <item>Staulänge</item>
+        <item>Stockender Verkehr</item>
+        <item>Baustelle</item>
     </string-array>
     <string-array name="map_title">
-        <item>错峰出行</item>
-        <item>有严重拥堵</item>
-        <item>路况畅通</item>
-        <item>无明显拥堵</item>
-        <item>有异常交通</item>
+        <item>Fahrt zum Verkehrshoch</item>
+        <item>Es gibt ernsthafte Staus</item>
+        <item>Der Verkehr ist ruhig</item>
+        <item>Kein offensichtlicher Stau</item>
+        <item>Ungewöhnlich viel Verkehr</item>
     </string-array>
     <string-array name="keyword_recommend_unit">
-        <item>要</item>
-        <item>只要</item>
+        <item>benötigen</item>
+        <item>sofern</item>
     </string-array>
     <string-array name="day_time_space">
-        <item>半夜</item>
-        <item>凌晨</item>
-        <item>上午</item>
-        <item>中午</item>
-        <item>下午</item>
-        <item>傍晚</item>
-        <item>晚上</item>
+        <item>Mitternacht</item>
+        <item>Früh Morgens</item>
+        <item>Morgens</item>
+        <item>Mittags</item>
+        <item>Nachmittags</item>
+        <item>Abends</item>
+        <item>Nachts</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>空气%1$s</item>
-        <item>空气%1$s</item>
+        <item>Luft%1$s</item>
+        <item>Luft%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
         <item>%1$s</item>
@@ -38,32 +37,32 @@
     <string-array name="aqi_title_append">
         <item>%1$s</item>
         <item>%1$s</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
+        <item>%1$sVerschmutzung</item>
+        <item>%1$sVerschmutzung</item>
+        <item>%1$sVerschmutzung</item>
+        <item>%1$sVerschmutzung</item>
     </string-array>
     <string-array name="aqi_title">
-        <item>优</item>
-        <item>良</item>
-        <item>轻度</item>
-        <item>中度</item>
-        <item>重度</item>
-        <item>严重</item>
+        <item>Ausgezeichnet</item>
+        <item>Gut</item>
+        <item>Mild</item>
+        <item>Mäßig</item>
+        <item>Schwer</item>
+        <item>Ernst</item>
     </string-array>
     <string-array name="detail_font_size">
-        <item>小号</item>
-        <item>标准</item>
-        <item>大号</item>
+        <item>Klein</item>
+        <item>Standart</item>
+        <item>Groß</item>
     </string-array>
     <string-array name="express_watched_app_filter">
-        <item>承运公司:</item>
-        <item>运单编号:</item>
-        <item>信息来源：</item>
-        <item>物流信息：</item>
+        <item>Speditionsunternehmen:</item>
+        <item>Frachtbriefnummer:</item>
+        <item>Informationsquelle：</item>
+        <item>Logistikinformationen：</item>
     </string-array>
     <string-array name="stock_color_schema">
-        <item>Red - up, green - down</item>
-        <item>Green - up, red - down</item>
+        <item>Rot - oben, grün - unten</item>
+        <item>Grün - oben, rot - unten</item>
     </string-array>
 </resources>
