@@ -176,11 +176,11 @@
   <string name="find_device_io_error">Keine Netzwerkverbindung</string>
   <string name="find_device_locked_account_email" formatted="false">%s, verknüpfte E-Mail-Adresse: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, verknüpfte Telefonnummer: %s</string>
-  <string name="find_device_message">Das Gerät ist gesperrt. Nachricht: %1$s, Nummer zum kontaktieren: %2$s.</string>
+  <string name="find_device_message">Das Gerät ist gesperrt. Nachricht: %1$s. Telefonnummer: %2$s.</string>
   <string name="find_device_null_credential_error">"Geräteinformation kann nicht gelesen werden, kontaktieren Sie den Xiaomi Kundenservice"</string>
   <string name="find_device_operation_failed_error">Ein Fehler ist aufgetreten</string>
   <string name="find_device_operation_failed_error_unknown">Ein Fehler ist aufgetreten, versuchen Sie es später</string>
-  <string name="find_device_owner_phone">Das Gerät ist gesperrt. Nummer zum kontaktieren: %1$s.</string>
+  <string name="find_device_owner_phone">Das Gerät ist gesperrt. Telefonnummer: %1$s.</string>
   <string name="find_device_prompt_message">Das Gerät ist gesperrt. Nachricht: %1$s.</string>
   <string name="find_device_remote_exception">RPC-Fehler</string>
   <string name="find_device_request_error">Status kann nicht überprüft werden, versuchen Sie es später</string>
@@ -463,8 +463,8 @@
   <string name="passport_skip_setup_account_msg">Sie können ein Mi Konto später in den Einstellungen einrichten</string>
   <string name="passport_skip_setup_account_title">Einrichtung überspringen</string>
   <string name="passport_sms_send_success">Gesendet</string>
-  <string name="passport_sync_account_data">Accountdaten syncen</string>
-  <string name="passport_sync_account_data_failed_warning">Ihr Account ist veraltet und Sie werden nun mit Ihrem Mi Account angemeldet。Wenn Sie Ihre Email/Telefonnummer zum anmelden nutzen, warten Sie ein paar Minuten</string>
+  <string name="passport_sync_account_data">Synchronisiere Accountdaten</string>
+  <string name="passport_sync_account_data_failed_warning">Ihre Kontoinformationen werden jetzt synchronisiert, Sie können sich mit Ihrer Mi Account ID anmelden. Wenn Sie sich mit Ihrem Telefon oder E-Mail anmelden möchten, warten Sie, bis die Daten vollständig synchronisiert sind.</string>
   <string name="passport_title_reg">Konto erstellen</string>
   <string name="passport_trust_device">Diesem Gerät vertrauen</string>
   <string name="passport_trying_read_verify_code_sms">Verfikationscode anfordern…</string>
