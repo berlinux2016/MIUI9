@@ -1,15 +1,255 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <!-- To be formatted -->
-  <string-array name="status_bar_show_carrier_entries">
-        <item>Nur auf dem Sperrbildschirm und in der Benachrichtigungsleiste anzeigen</item>
-        <item>Netzanbieter immer anzeigen</item>
-        <item>Netzanbieter niemals anzeigen</item>
-     </string-array>
+  <string-array name="agps_network_entries">
+    <item>Heimnetzwerk</item>
+    <item>Alle Netzwerke</item>
+  </string-array>
+  <string-array name="alarm_repeat_type">
+    <item>Jeden Tag</item>
+    <item>Wochentags</item>
+    <item>Eigene</item>
+  </string-array>
+  <string-array name="alarm_repeat_type_no_workdays">
+    <item>Jeden Tag</item>
+    <item>Wochentags</item>
+    <item>Eigene</item>
+  </string-array>
+  <string-array name="animator_duration_scale_entries">
+    <item>Animation aus</item>
+    <item>Dauer der Animation: 0.5x</item>
+    <item>Dauer der Animation: 1x</item>
+    <item>Dauer der Animation: 1.5x</item>
+    <item>Dauer der Animation: 2x</item>
+    <item>Dauer der Animation: 5x</item>
+    <item>Dauer der Animation: 10x</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item>Keine</item>
+    <item>PAP</item>
+    <item>CHAP</item>
+    <item>PAP oder CHAP</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item>IPv4</item>
+    <item>IPv6</item>
+    <item>IPv4/IPv6</item>
+  </string-array>
+  <string-array name="app_install_location_entries">
+    <item>Interner Gerätespeicher</item>
+    <item>Austauschbare SD-Karte</item>
+    <item>Auswahl durch das System</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item>Standort</item>
+    <item>Persönlich</item>
+    <item>Nachrichten</item>
+    <item>Medien</item>
+    <item>Gerät</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item>Standort</item>
+    <item>Standort</item>
+    <item>Standort</item>
+    <item>Vibration</item>
+    <item>Kontakte lesen</item>
+    <item>Kontakte ändern</item>
+    <item>Anrufliste lesen</item>
+    <item>Anrufliste ändern</item>
+    <item>Kalendar lesen</item>
+    <item>Kalender ändern</item>
+    <item>Standort</item>
+    <item>Benachrichtigung posten</item>
+    <item>Standort</item>
+    <item>Telefonieren</item>
+    <item>SMS/MMS lesen</item>
+    <item>SMS/MMS schreiben</item>
+    <item>SMS/MMS empfangen</item>
+    <item>SMS/MMS empfangen</item>
+    <item>SMS/MMS empfangen</item>
+    <item>SMS/MMS empfangen</item>
+    <item>SMS/MMS senden</item>
+    <item>SMS/MMS lesen</item>
+    <item>SMS/MMS schreiben</item>
+    <item>Einstellungen ändern</item>
+    <item>An oberste Position ziehen</item>
+    <item>Auf Benachrichtigungen zugreifen</item>
+    <item>Kamera</item>
+    <item>Audio aufnehmen</item>
+    <item>Audio wiedergeben</item>
+    <item>Zwischenablage lesen</item>
+    <item>Zwischenablage ändern</item>
+    <item>Medienschaltflächen</item>
+    <item>Audiofokus</item>
+    <item>Gesamtlautstärke</item>
+    <item>Sprachlautstärke</item>
+    <item>Klingeltonlautstärke</item>
+    <item>Medienlautstärke</item>
+    <item>Weckerlautstärke</item>
+    <item>Benachrichtigungslautstärke</item>
+    <item>Bluetoothlautstärke</item>
+    <item>Aktiv lassen</item>
+    <item>Standort</item>
+    <item>Standort</item>
+    <item>Nutzerstatistik lesen</item>
+    <item>Mikrofon stummschalten</item>
+    <item>Medien projizieren</item>
+    <item>VPN aktivieren</item>
+    <item>Hintergrundbild einrichten</item>
+    <item>Strukturassistent</item>
+    <item>Screenshotassistent</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item>Ungefährer Standort</item>
+    <item>Genauer Standort</item>
+    <item>GPS</item>
+    <item>Vibration</item>
+    <item>Kontakte lesen</item>
+    <item>Kontakte ändern</item>
+    <item>Anrufliste lesen</item>
+    <item>Anrufliste ändern</item>
+    <item>Kalender lesen</item>
+    <item>Kalender ändern</item>
+    <item>WLAN-Scan</item>
+    <item>Benachrichtigung</item>
+    <item>Mobilfunknetz-Scan</item>
+    <item>Telefonieren</item>
+    <item>SMS lesen</item>
+    <item>SMS schreiben</item>
+    <item>SMS empfangen</item>
+    <item>Not-SMS empfangen</item>
+    <item>MMS empfangen</item>
+    <item>WAP-Push erhalten</item>
+    <item>SMS senden</item>
+    <item>ICC-SMS lesen</item>
+    <item>ICC-SMS schreiben</item>
+    <item>Einstellungen ändern</item>
+    <item>An oberste Position ziehen</item>
+    <item>Auf Benachrichtigungen zugreifen</item>
+    <item>Kamera</item>
+    <item>Audio aufnehmen</item>
+    <item>Audio wiedergeben</item>
+    <item>Zwischenablage lesen</item>
+    <item>Zwischenablage ändern</item>
+    <item>Medienschaltflächen</item>
+    <item>Audiofokus</item>
+    <item>Gesamtlautstärke</item>
+    <item>Sprachlautstärke</item>
+    <item>Klingeltonlautstärke</item>
+    <item>Medienlautstärke</item>
+    <item>Weckerlautstärke</item>
+    <item>Benachrichtigungslautstärke</item>
+    <item>Bluetoothlautstärke</item>
+    <item>Aktiv lassen</item>
+    <item>Standort beobachten</item>
+    <item>Orte mit hohem Stromverbrauch überwachen</item>
+    <item>Nutzerstatistik lesen</item>
+    <item>Mikrofon stummschalten</item>
+    <item>Medien projizieren</item>
+    <item>VPN aktivieren</item>
+    <item>Hintergrundbild einrichten</item>
+    <item>Strukturassistent</item>
+    <item>Screenshotassistent</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Standardlimit</item>
+    <item>Keine Hintergrundprozesse</item>
+    <item>Höchstens 1 Prozess</item>
+    <item>Höchstens 2 Prozesse</item>
+    <item>Höchstens 3 Prozesse</item>
+    <item>Höchstens 4 Prozesse</item>
+  </string-array>
+  <string-array name="battery_indicator_style_entries">
+    <item>Grafisch</item>
+    <item>Prozent</item>
+    <item>Balken</item>
+  </string-array>
+  <string-array name="bearer_entries">
+    <item>Keine Angabe</item>
+    <item>LTE</item>
+    <item>HSPAP</item>
+    <item>HSPA</item>
+    <item>HSUPA</item>
+    <item>HSDPA</item>
+    <item>UMTS</item>
+    <item>EDGE</item>
+    <item>GPRS</item>
+    <item>eHRPD</item>
+    <item>EVDO_B</item>
+    <item>EVDO_A</item>
+    <item>EVDO_0</item>
+    <item>1xRTT</item>
+    <item>IS95B</item>
+    <item>IS95A</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item>2 Minuten</item>
+    <item>5 Minuten</item>
+    <item>1 Stunde</item>
+    <item>Keine Zeitüberschreitung</item>
+  </string-array>
+  <string-array name="button_light_timeout_entries">
+    <item>1 Sekunde</item>
+    <item>2 Sekunden</item>
+    <item>5 Sekunden</item>
+    <item>10 Sekunden</item>
+    <item>20 Sekunden</item>
+    <item>Immer</item>
+  </string-array>
+  <string-array name="captioning_edge_type_selector_titles">
+    <item>Standard</item>
+    <item>Ohne</item>
+    <item>Kontur</item>
+    <item>Schlagschatten</item>
+    <item>Hochgestellt</item>
+    <item>Runtergestellt</item>
+  </string-array>
+  <string-array name="captioning_font_size_selector_titles">
+    <item>Sehr klein</item>
+    <item>Klein</item>
+    <item>Normal</item>
+    <item>Groß</item>
+    <item>Sehr groß</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item>Appstandard verwenden</item>
+    <item>Weiß auf Schwarz</item>
+    <item>Schwarz auf Weiß</item>
+    <item>Gelb auf Schwarz</item>
+    <item>Gelb auf Blau</item>
+    <item>Benutzerdefiniert</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item>Standard</item>
+    <item>Sans-serif</item>
+    <item>Sans-serif, schmal</item>
+    <item>Sans-serif, feste Breite</item>
+    <item>Serif</item>
+    <item>Serif, feste Breite</item>
+    <item>Casual</item>
+    <item>Kursiv</item>
+    <item>Kapitälchen</item>
+  </string-array>
   <string-array name="cellcular2wifi_entries">
     <item>Automatisch verbinden</item>
     <item>Manuell verbinden</item>
     <item>Jedesmal nachfragen</item>
+  </string-array>
+  <string-array name="change_security_lock_picker">
+    <item>Gesichtserkennung</item>
+    <item>Muster</item>
+    <item>PIN</item>
+    <item>Passwort</item>
+  </string-array>
+  <string-array name="check_importance_entries">
+    <item>Empfohlen</item>
+    <item>Wichtig</item>
+    <item>Unwichtig</item>
+  </string-array>
+  <string-array name="check_importance_summary">
+    <item>Intelligente Bewertung, unwichtige Benachrichtigungen erscheinen in einem separaten Ordner</item>
+    <item>Benachrichtigungen werden direkt in der Benachrichtigungsleiste angezeigt.</item>
+    <item>Alle Benachrichtigungen werden in einem seperaten Ordner angezeigt</item>
   </string-array>
   <string-array name="color_mode_descriptions">
     <item>Erweiterte Farben</item>
@@ -21,9 +261,44 @@
     <item>Natürlich</item>
     <item>Standard</item>
   </string-array>
+  <string-array name="color_picker">
+    <item>Petrol</item>
+    <item>Blau</item>
+    <item>Indigo</item>
+    <item>Lila</item>
+    <item>Rosa</item>
+    <item>Rot</item>
+  </string-array>
+  <string-array name="common_password_business_names">
+    <item>Sperrbildschirm</item>
+    <item>Privatsphären Passwort</item>
+    <item>Kindermodus</item>
+    <item>Dateimanager</item>
+    <item>App Lock</item>
+    <item>Zweitprofil</item>
+  </string-array>
   <string-array name="connect_mode_entries">
-    <item>Comtible Modus</item>
-    <item>Hoch</item>
+    <item>Kompatibilität</item>
+    <item>Hochgeschwindigkeit</item>
+  </string-array>
+  <string-array name="data_usage_data_range">
+    <item>Die letzten 30 Tage</item>
+    <item>Zykluszeit festlegen...</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Aus</item>
+    <item>Überschneidungsbereiche anzeigen</item>
+    <item>Bereiche für Deuteranomalie anzeigen</item>
+  </string-array>
+  <string-array name="dream_timeout_entries">
+    <item>Niemals</item>
+    <item>15 Sekunden</item>
+    <item>30 Sekunden</item>
+    <item>1 Minute</item>
+    <item>2 Minuten</item>
+    <item>5 Minuten</item>
+    <item>10 Minuten</item>
+    <item>30 Minuten</item>
   </string-array>
   <string-array name="edge_touch_volume_action">
     <item>Klick Einstellung - Doppelklick Auslösung</item>
@@ -31,6 +306,58 @@
     <item>Klick Einstellung - Klick Auslösung</item>
     <item>Klick Einstellung - Lange Klick Auslösung</item>
   </string-array>
+  <string-array name="emergency_tone_entries">
+    <item>Aus</item>
+    <item>Benachrichtigung</item>
+    <item>Vibration</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>Keiner</item>
+    <item>Logcat</item>
+    <item>Systrace (Grafik)</item>
+    <item>Aufrufliste für glGetError</item>
+  </string-array>
+  <string-array name="entries_font_size">
+    <item>Klein</item>
+    <item>Normal</item>
+    <item>Groß</item>
+    <item>Extra Groß</item>
+  </string-array>
+  <string-array name="fluency_mode_confirms">
+    <item>Gerät neu starten, um die Einstellungen anzuwenden?</item>
+    <item>Gerät neu starten, um die Einstellungen anzuwenden?</item>
+  </string-array>
+  <string-array name="fluency_mode_entries">
+    <item>Systemanimationen ausschalten</item>
+    <item>Systemanimationen einschalten</item>
+  </string-array>
+  <string-array name="fluency_mode_summaries">
+    <item>Verbessert die Systemleistung</item>
+    <item>Kann sich negativ auf die Systemleistung auswirken</item>
+  </string-array>
+  <string-array name="handy_mode_size_text_entries">
+    <item>4.5 Zoll</item>
+    <item>4.0 Zoll</item>
+    <item>3.5 Zoll</item>
+  </string-array>
+  <string-array name="haptic_feedback_level_entries">
+    <item>Stark</item>
+    <item>Mittel</item>
+    <item>Schwach</item>
+  </string-array>
+  <string-array name="haptic_feedback_level_texts">
+    <item>Aus</item>
+    <item>Schwach</item>
+    <item>Mittel</item>
+    <item>Stark</item>
+  </string-array>
+  
+  
+  <string-array name="status_bar_show_carrier_entries">
+        <item>Nur auf dem Sperrbildschirm und in der Benachrichtigungsleiste anzeigen</item>
+        <item>Netzanbieter immer anzeigen</item>
+        <item>Netzanbieter niemals anzeigen</item>
+     </string-array>
   <string-array name="miui_entries_font_size">
     <item>S</item>
     <item>M</item>
@@ -72,16 +399,6 @@
   <string-array name="wifi_calling_mode_choices_without_wifi_only">
     <item>WLAN bevorzugt</item>
     <item>Mobilfunk bevorzugt</item>
-  </string-array>
-  <string-array name="check_importance_entries">
-    <item>Empfohlen</item>
-    <item>Wichtig</item>
-    <item>Unwichtig</item>
-  </string-array>
-  <string-array name="check_importance_summary">
-    <item>Intelligente Bewertung, unwichtige Benachrichtigungen erscheinen in einem separaten Ordner</item>
-    <item>Benachrichtigungen werden direkt in der Benachrichtigungsleiste angezeigt.</item>
-    <item>Alle Benachrichtigungen werden in einem seperaten Ordner angezeigt</item>
   </string-array>
   <string-array name="wifi_status">
     <item></item>
@@ -168,16 +485,6 @@
     <item>10 Minuten</item>
     <item>Niemals</item>
   </string-array>
-  <string-array name="dream_timeout_entries">
-    <item>Niemals</item>
-    <item>15 Sekunden</item>
-    <item>30 Sekunden</item>
-    <item>1 Minute</item>
-    <item>2 Minuten</item>
-    <item>5 Minuten</item>
-    <item>10 Minuten</item>
-    <item>30 Minuten</item>
-  </string-array>
   <string-array name="lock_after_timeout_entries">
     <item>Sofort</item>
     <item>5 Sekunden</item>
@@ -188,12 +495,6 @@
     <item>5 Minuten</item>
     <item>10 Minuten</item>
     <item>30 Minuten</item>
-  </string-array>
-  <string-array name="entries_font_size">
-    <item>Klein</item>
-    <item>Normal</item>
-    <item>Groß</item>
-    <item>Extra Groß</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Push-Taste</item>
@@ -206,12 +507,6 @@
     <item>Nicht erfolgreich</item>
     <item>Verfügbar</item>
     <item>Außerhalb der Reichweite</item>
-  </string-array>
-  <string-array name="bluetooth_visibility_timeout_entries">
-    <item>2 Minuten</item>
-    <item>5 Minuten</item>
-    <item>1 Stunde</item>
-    <item>Keine Zeitüberschreitung</item>
   </string-array>
   <string-array name="wifi_signal">
     <item>Schwach</item>
@@ -266,40 +561,6 @@
     <item>Manuell</item>
     <item>Proxy Auto-Config</item>
   </string-array>
-  <string-array name="emergency_tone_entries">
-    <item>Aus</item>
-    <item>Benachrichtigung</item>
-    <item>Vibration</item>
-  </string-array>
-  <string-array name="apn_auth_entries">
-    <item>Keine</item>
-    <item>PAP</item>
-    <item>CHAP</item>
-    <item>PAP oder CHAP</item>
-  </string-array>
-  <string-array name="apn_protocol_entries">
-    <item>IPv4</item>
-    <item>IPv6</item>
-    <item>IPv4/IPv6</item>
-  </string-array>
-  <string-array name="bearer_entries">
-    <item>Keine Angabe</item>
-    <item>LTE</item>
-    <item>HSPAP</item>
-    <item>HSPA</item>
-    <item>HSUPA</item>
-    <item>HSDPA</item>
-    <item>UMTS</item>
-    <item>EDGE</item>
-    <item>GPRS</item>
-    <item>eHRPD</item>
-    <item>EVDO_B</item>
-    <item>EVDO_A</item>
-    <item>EVDO_0</item>
-    <item>1xRTT</item>
-    <item>IS95B</item>
-    <item>IS95A</item>
-  </string-array>
   <string-array name="mvno_type_entries">
     <item>Keine</item>
     <item>SPN</item>
@@ -307,160 +568,10 @@
     <item>GID</item>
     <item>ICCID</item>
   </string-array>
-  <string-array name="app_install_location_entries">
-    <item>Interner Gerätespeicher</item>
-    <item>Austauschbare SD-Karte</item>
-    <item>Auswahl durch das System</item>
-  </string-array>
-  <string-array name="app_ops_categories">
-    <item>Standort</item>
-    <item>Persönlich</item>
-    <item>Nachrichten</item>
-    <item>Medien</item>
-    <item>Gerät</item>
-  </string-array>
-  <string-array name="app_ops_summaries">
-    <item>Ungefährer Standort</item>
-    <item>Genauer Standort</item>
-    <item>GPS</item>
-    <item>Vibration</item>
-    <item>Kontakte lesen</item>
-    <item>Kontakte ändern</item>
-    <item>Anrufliste lesen</item>
-    <item>Anrufliste ändern</item>
-    <item>Kalender lesen</item>
-    <item>Kalender ändern</item>
-    <item>WLAN-Scan</item>
-    <item>Benachrichtigung</item>
-    <item>Mobilfunknetz-Scan</item>
-    <item>Telefonieren</item>
-    <item>SMS lesen</item>
-    <item>SMS schreiben</item>
-    <item>SMS empfangen</item>
-    <item>Not-SMS empfangen</item>
-    <item>MMS empfangen</item>
-    <item>WAP-Push erhalten</item>
-    <item>SMS senden</item>
-    <item>ICC-SMS lesen</item>
-    <item>ICC-SMS schreiben</item>
-    <item>Einstellungen ändern</item>
-    <item>An oberste Position ziehen</item>
-    <item>Auf Benachrichtigungen zugreifen</item>
-    <item>Kamera</item>
-    <item>Audio aufnehmen</item>
-    <item>Audio wiedergeben</item>
-    <item>Zwischenablage lesen</item>
-    <item>Zwischenablage ändern</item>
-    <item>Medienschaltflächen</item>
-    <item>Audiofokus</item>
-    <item>Gesamtlautstärke</item>
-    <item>Sprachlautstärke</item>
-    <item>Klingeltonlautstärke</item>
-    <item>Medienlautstärke</item>
-    <item>Weckerlautstärke</item>
-    <item>Benachrichtigungslautstärke</item>
-    <item>Bluetoothlautstärke</item>
-    <item>Aktiv lassen</item>
-    <item>Standort beobachten</item>
-    <item>Orte mit hohem Stromverbrauch überwachen</item>
-    <item>Nutzerstatistik lesen</item>
-    <item>Mikrofon stummschalten</item>
-    <item>Medien projizieren</item>
-    <item>VPN aktivieren</item>
-    <item>Hintergrundbild einrichten</item>
-    <item>Strukturassistent</item>
-    <item>Screenshotassistent</item>
-  </string-array>
-  <string-array name="app_ops_labels">
-    <item>Standort</item>
-    <item>Standort</item>
-    <item>Standort</item>
-    <item>Vibration</item>
-    <item>Kontakte lesen</item>
-    <item>Kontakte ändern</item>
-    <item>Anrufliste lesen</item>
-    <item>Anrufliste ändern</item>
-    <item>Kalendar lesen</item>
-    <item>Kalender ändern</item>
-    <item>Standort</item>
-    <item>Benachrichtigung posten</item>
-    <item>Standort</item>
-    <item>Telefonieren</item>
-    <item>SMS/MMS lesen</item>
-    <item>SMS/MMS schreiben</item>
-    <item>SMS/MMS empfangen</item>
-    <item>SMS/MMS empfangen</item>
-    <item>SMS/MMS empfangen</item>
-    <item>SMS/MMS empfangen</item>
-    <item>SMS/MMS senden</item>
-    <item>SMS/MMS lesen</item>
-    <item>SMS/MMS schreiben</item>
-    <item>Einstellungen ändern</item>
-    <item>An oberste Position ziehen</item>
-    <item>Auf Benachrichtigungen zugreifen</item>
-    <item>Kamera</item>
-    <item>Audio aufnehmen</item>
-    <item>Audio wiedergeben</item>
-    <item>Zwischenablage lesen</item>
-    <item>Zwischenablage ändern</item>
-    <item>Medienschaltflächen</item>
-    <item>Audiofokus</item>
-    <item>Gesamtlautstärke</item>
-    <item>Sprachlautstärke</item>
-    <item>Klingeltonlautstärke</item>
-    <item>Medienlautstärke</item>
-    <item>Weckerlautstärke</item>
-    <item>Benachrichtigungslautstärke</item>
-    <item>Bluetoothlautstärke</item>
-    <item>Aktiv lassen</item>
-    <item>Standort</item>
-    <item>Standort</item>
-    <item>Nutzerstatistik lesen</item>
-    <item>Mikrofon stummschalten</item>
-    <item>Medien projizieren</item>
-    <item>VPN aktivieren</item>
-    <item>Hintergrundbild einrichten</item>
-    <item>Strukturassistent</item>
-    <item>Screenshotassistent</item>
-  </string-array>
   <string-array name="long_press_timeout_selector_titles">
     <item>Kurz</item>
     <item>Mittel</item>
     <item>Lang</item>
-  </string-array>
-  <string-array name="captioning_typeface_selector_titles">
-    <item>Standard</item>
-    <item>Sans-serif</item>
-    <item>Sans-serif, schmal</item>
-    <item>Sans-serif, feste Breite</item>
-    <item>Serif</item>
-    <item>Serif, feste Breite</item>
-    <item>Casual</item>
-    <item>Kursiv</item>
-    <item>Kapitälchen</item>
-  </string-array>
-  <string-array name="captioning_font_size_selector_titles">
-    <item>Sehr klein</item>
-    <item>Klein</item>
-    <item>Normal</item>
-    <item>Groß</item>
-    <item>Sehr groß</item>
-  </string-array>
-  <string-array name="captioning_edge_type_selector_titles">
-    <item>Standard</item>
-    <item>Ohne</item>
-    <item>Kontur</item>
-    <item>Schlagschatten</item>
-    <item>Hochgestellt</item>
-    <item>Runtergestellt</item>
-  </string-array>
-  <string-array name="captioning_preset_selector_titles">
-    <item>Appstandard verwenden</item>
-    <item>Weiß auf Schwarz</item>
-    <item>Schwarz auf Weiß</item>
-    <item>Gelb auf Schwarz</item>
-    <item>Gelb auf Blau</item>
-    <item>Benutzerdefiniert</item>
   </string-array>
   <string-array name="select_runtime_titles">
     <item>Dalvik</item>
@@ -498,21 +609,6 @@
     <item>Dauer der Animation: 5x</item>
     <item>Dauer der Animation: 10x</item>
   </string-array>
-  <string-array name="animator_duration_scale_entries">
-    <item>Animation aus</item>
-    <item>Dauer der Animation: 0.5x</item>
-    <item>Dauer der Animation: 1x</item>
-    <item>Dauer der Animation: 1.5x</item>
-    <item>Dauer der Animation: 2x</item>
-    <item>Dauer der Animation: 5x</item>
-    <item>Dauer der Animation: 10x</item>
-  </string-array>
-  <string-array name="enable_opengl_traces_entries">
-    <item>Keiner</item>
-    <item>Logcat</item>
-    <item>Systrace (Grafik)</item>
-    <item>Aufrufliste für glGetError</item>
-  </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Aus</item>
     <item>Nicht rechteckigen Clipbereich blau zeichnen</item>
@@ -522,19 +618,6 @@
     <item>Aus</item>
     <item>Auf Bildschirm als Balken</item>
     <item>In adb shell dumpsys gfxinfo</item>
-  </string-array>
-  <string-array name="debug_hw_overdraw_entries">
-    <item>Aus</item>
-    <item>Überschneidungsbereiche anzeigen</item>
-    <item>Bereiche für Deuteranomalie anzeigen</item>
-  </string-array>
-  <string-array name="app_process_limit_entries">
-    <item>Standardlimit</item>
-    <item>Keine Hintergrundprozesse</item>
-    <item>Höchstens 1 Prozess</item>
-    <item>Höchstens 2 Prozesse</item>
-    <item>Höchstens 3 Prozesse</item>
-    <item>Höchstens 4 Prozesse</item>
   </string-array>
   <string-array name="vpn_types">
     <item>PPTP</item>
@@ -589,14 +672,6 @@
     <item>Cached (Aktivität Client)</item>
     <item>Cached (leer)</item>
   </string-array>
-  <string-array name="color_picker">
-    <item>Petrol</item>
-    <item>Blau</item>
-    <item>Indigo</item>
-    <item>Lila</item>
-    <item>Rosa</item>
-    <item>Rot</item>
-  </string-array>
   <string-array name="wifi_calling_mode_choices">
     <item>WLAN bevorzugt</item>
     <item>Mobilnetz bevorzugt</item>
@@ -606,20 +681,10 @@
     <item>Automatisch verbinden</item>
     <item>Manuell verbinden</item>
   </string-array>
-  <string-array name="haptic_feedback_level_entries">
-    <item>Stark</item>
-    <item>Mittel</item>
-    <item>Schwach</item>
-  </string-array>
   <string-array name="media_feedback_level_entries">
     <item>Stark</item>
     <item>Mittel</item>
     <item>Schwach</item>
-  </string-array>
-  <string-array name="battery_indicator_style_entries">
-    <item>Grafisch</item>
-    <item>Prozent</item>
-    <item>Balken</item>
   </string-array>
   <string-array name="usb_connection_mode_entries">
     <item>Nachfragen</item>
@@ -673,14 +738,6 @@
     <item>1 Sekunde</item>
     <item>1.5 Sekunden</item>
     <item>2 Sekunden</item>
-  </string-array>
-  <string-array name="button_light_timeout_entries">
-    <item>1 Sekunde</item>
-    <item>2 Sekunden</item>
-    <item>5 Sekunden</item>
-    <item>10 Sekunden</item>
-    <item>20 Sekunden</item>
-    <item>Immer</item>
   </string-array>
   <string-array name="wfd_status">
     <item>Erstelle Sitzung…</item>
@@ -749,12 +806,6 @@
     <item>Single-Mic-Rauschunterdrückung</item>
     <item>Dual-Mic-Rauschunterdrückung</item>
   </string-array>
-  <string-array name="change_security_lock_picker">
-    <item>Gesichtserkennung</item>
-    <item>Muster</item>
-    <item>PIN</item>
-    <item>Passwort</item>
-  </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Automatisch verbinden</item>
     <item>Manuell verbinden</item>
@@ -812,15 +863,6 @@
     <item>Mittel</item>
     <item>Hoch</item>
   </string-array>
-  <string-array name="handy_mode_size_text_entries">
-    <item>4.5 Zoll</item>
-    <item>4.0 Zoll</item>
-    <item>3.5 Zoll</item>
-  </string-array>
-  <string-array name="agps_network_entries">
-    <item>Heimnetzwerk</item>
-    <item>Alle Netzwerke</item>
-  </string-array>
   <string-array name="install_non_market_app_entries">
     <item>Für riskante Apps fragen</item>
     <item>Erlauben</item>
@@ -837,36 +879,6 @@
     <item>After 5 minutes</item>
     <item>Never</item>
   </string-array>
-  <string-array name="fluency_mode_entries">
-    <item>Systemanimationen ausschalten</item>
-    <item>Systemanimationen einschalten</item>
-  </string-array>
-  <string-array name="fluency_mode_summaries">
-    <item>Verbessert die Systemleistung</item>
-    <item>Kann sich negativ auf die Systemleistung auswirken</item>
-  </string-array>
-  <string-array name="fluency_mode_confirms">
-    <item>Gerät neu starten, um die Einstellungen anzuwenden?</item>
-    <item>Gerät neu starten, um die Einstellungen anzuwenden?</item>
-  </string-array>
-  <string-array name="alarm_repeat_type">
-    <item>Jeden Tag</item>
-    <item>Wochentags</item>
-    <item>Eigene</item>
-  </string-array>
-  <string-array name="alarm_repeat_type_no_workdays">
-    <item>Jeden Tag</item>
-    <item>Wochentags</item>
-    <item>Eigene</item>
-  </string-array>
-  <string-array name="common_password_business_names">
-    <item>Lock screen</item>
-    <item>Privacy password</item>
-    <item>Child mode</item>
-    <item>File Explorer</item>
-    <item>App lock</item>
-    <item>Second space</item>
-  </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Aus</item>
     <item>480p</item>
@@ -880,10 +892,6 @@
     <item>4K (hochskaliert)</item>
     <item>4K (hochskaliert, gesichert)</item>
     <item>720p, 1080p (zwei Displays)</item>
-  </string-array>
-  <string-array name="data_usage_data_range">
-    <item>Die letzten 30 Tage</item>
-    <item>Zykluszeit festlegen...</item>
   </string-array>
   <string-array name="standard_configuration_version_description_primary">
     <item>Prozessor</item>
@@ -926,12 +934,6 @@
     <item>Rasch</item>
     <item>Sehr rasch</item>
     <item>Am schnellsten</item>
-  </string-array>
-  <string-array name="haptic_feedback_level_texts">
-    <item>Aus</item>
-    <item>Schwach</item>
-    <item>Mittel</item>
-    <item>Stark</item>
   </string-array>
   <string-array name="max_number_titles">
     <item>6</item>
