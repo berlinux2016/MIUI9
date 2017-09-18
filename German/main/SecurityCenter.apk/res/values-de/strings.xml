@@ -110,7 +110,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Vor 2 Tagen aktualisiert</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Gestern um %s aktualisiert</string>
   <string name="adjust_traffic_data">Datenverbrauch festlegen</string>
-  <string name="after_the_lock_screen">"Die App wird gleichzeitig mit dem Bildschirm gesperrt. Sie können dies in den Einstellungen für die Appsperre verändern."</string>
+  <string name="after_the_lock_screen">Sperrt die App zusammen mit dem Bildschirm</string>
   <string name="all_address_choose_hint">Alle Nummern in diesem Ort</string>
   <string name="anim_gamebooster_text">Einen Moment…</string>
   <string name="anti_disturb_msg_detail">Schalten Sie alle Benachrichtigungen außer für eingehende Anrufe aus</string>
@@ -298,7 +298,7 @@
   <string name="applock_close_dialog_summary">Apps werden nicht mehr geschützt und Ihr Passwort wird gelöscht, nachdem Sie App lock deaktiviert haben.</string>
   <string name="applock_close_dialog_title">App lock ausschalten?</string>
   <string name="applock_exit_account_info">Das Konto wird bei der Abmeldung automatisch entfernt</string>
-  <string name="applock_header_text_less_than_half">Zu wenig Platz für diese App. Trenner weiter ziehen</string>
+  <string name="applock_header_text_less_than_half">Zu wenig Platz für diese App. Trenner etwas weiter ziehen</string>
   <string name="applock_login_and_add_account">Sign in &amp; hinzufügen</string>
   <string name="applock_not_add_account">Nichtg jetzt</string>
   <string name="applock_not_login_account">"You aren't signed in"</string>
@@ -823,7 +823,7 @@
   <string name="examination_score_has_virus">Einige Apps sind verdächtig.</string>
   <string name="exit">Beenden</string>
   <string name="finger_remind_message">Sie können auch Ihren Fingerabdruck zur Appsperre verwenden</string>
-  <string name="fingerprint_identify_msg">Scannen Sie Ihren Fingerabdruck</string>
+  <string name="fingerprint_identify_msg">Entsperren per Fingerabruck aktiviern</string>
   <string name="fingerprint_not_identified_msg">Passwort eingeben, um Ihr Gerät zu entsperren.</string>
   <string name="fingerprint_not_remind">Nicht wieder nachfragen</string>
   <string name="fingerprint_remind_dialog_title">Entsperren mit Fingerabdruck</string>
@@ -836,7 +836,7 @@
   <string name="firewall_activity_lable">Datenverbrauch nach App einschränken</string>
   <string name="firewall_allow_all">Allen Apps erlauben, sich folgendermaßen zu verbinden</string>
   <string name="firewall_allow_data">Mobile Daten zulassen</string>
-  <string name="firewall_allow_network">Erlaubt</string>
+  <string name="firewall_allow_network">Erlauben</string>
   <string name="firewall_allow_wlan">WLAN Verbindung zulassen</string>
   <string name="firewall_applist">Apps</string>
   <string name="firewall_fragment_nonesys_listempty">Leer</string>
@@ -865,6 +865,7 @@
   <string name="force_stop_dlg_text">Wenn Sie die Hintergrunddaten beschränken, werden einige Apps und Dienste nicht funktionieren.</string>
   <string name="force_stop_dlg_title">Hintergrunddaten beschränken</string>
   <string name="foreground_traffic">Vordergrund %s</string>
+  <string name="forget_password_button_text_normal">Passwort vergessen</string>
   <string name="forget_password_button_text">
     <u>Passwort vergessen</u>
   </string>
@@ -1189,6 +1190,7 @@
   </string>
   <string name="main_today_used">Verbraucht heute</string>
   <string name="main_toolbar_firewall">Beschränken</string>
+  <string name="main_button_usage_adjusting_bill">Lade…</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobile Daten</string>
   <string name="main_toolbar_internet_by_pc_brige">USB-Internet</string>
   <string name="main_toolbar_internet_by_wifi">WLAN</string>
@@ -2522,8 +2524,8 @@
   <string name="tc_sms_report_get_sms_again">SMS aktualisieren</string>
   <string name="tc_sms_report_get_sms_bill">SMS bekommen</string>
   <string name="tc_sms_report_get_sms_calltime">SMS bekommen</string>
-  <string name="tc_sms_report_get_sms_failure">Das SMS-Format für die Datennutzung konnte nicht abgerufen werden</string>
-  <string name="tc_sms_report_get_sms_successs">SMS-Format für Datennutzung aktualisiert</string>
+  <string name="tc_sms_report_get_sms_failure">Datennutzungsinformationen konnten nicht abgerufen werden</string>
+  <string name="tc_sms_report_get_sms_successs">Datennutzungsinformationen aktualisiert</string>
   <string name="tc_sms_report_get_sms_timeout">Zeitüberschreitung der Anfrage</string>
   <string name="tc_sms_report_get_success">SMS über Datenverbrauchsübersicht erhalten. Überprüfen Sie die Angaben und senden Sie den Bericht an uns.</string>
   <string name="tc_sms_report_get_success_notify_body">Überprüfen Sie die Angaben und senden Sie den Bericht an MIUI.</string>
@@ -2543,12 +2545,13 @@
   <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
   <string name="tc_sms_report_send_num">Anbieternummer</string>
   <string name="tc_sms_report_summary">Helfen Sie uns diese Funktion zu verbessern, indem Sie uns eine fehlerhafte Datenverbrauchsübersicht oder Aktualisierungsfehler melden</string>
-  <string name="tc_sms_report_tips_dialog_message">"Datenverbrauch verwendet eine speziell formatierte SMS, um den neuesten Datenverbrauch von Ihrem Mobilfunkanbieter zu erhalten. Wenn diese Funktion nicht ordnungsgemäß läuft, versuchen Sie die Formatierung der Datenverbrauch-SMS zu aktualisieren. Die neu aktualisierte Formatierung wird dann auf unsere Server hochgeladen."</string>
+  <string name="tc_sms_report_tips_dialog_message">"Eine SMS wird an Ihren Netzbetreiber geschickt, um die aktuellsten Informationen zur Datennutzung zu erhalten. Wenn Sie der Meinung sind, dass die Info nicht korrekt ist, senden Sie uns Ihr Feedback."</string>
   <string name="tc_sms_report_tips_dialog_title">Datenverbrauchs-SMS</string>
   <string name="tc_sms_report_title">Datenverbrauchsfehler melden</string>
   <string name="tc_sms_report_title_bill">Datennutzung-Fehlerbericht</string>
   <string name="tc_sms_report_title_calltime">Datennutzung-Fehlerbericht</string>
   <string name="tc_sms_report_toast_text">Details werden abgerufen…</string>
+  <string name="tc_sms_report_type">Berichtsart</string>
   <string name="tc_sms_report_upload_success">"Datenverbrauchs-SMS übermittelt. Wir werden uns gleich darum kümmern!"</string>
   <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>
   <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
