@@ -88,6 +88,8 @@
   <string name="receiver_video_file_current_multi">Empfange %2$d​ Video(s) von %1$s…</string>
   <string name="receiver_video_file_current_single">%2$d​ Video von %1$s empfagnen…</string>
   <string name="receiver_video_file_num">%2$d​ Videos von %1$s</string>
+  <string name="request_permission_msg">Mi Drop benötigt %s, bitte Berechtigung erteilen</string>
+  <string name="request_permission_title">Berechtigung erteilen</string>
   <string name="runtime_permission_ungranted">Mi Drop kann aufgrund fehlender Berechtigungen nicht verwendet werden</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
@@ -109,6 +111,7 @@
   <string name="sender_transfer_interrupt">"Übertragung abgebrochen. WLAN während der Übertragung nicht ausschalten."</string>
   <string name="sender_wait">Warten</string>
   <string name="sender_wait_queue">Warten</string>
+  <string name="split_comma">,</string>
   <string name="transfer_interrupt">Übertragung abgebrochen</string>
   <string name="transmission_click_send">Senden</string>
   <string name="transmission_connect">"Empfänger nicht gefunden"</string>
