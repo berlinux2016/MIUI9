@@ -158,7 +158,7 @@
   <string name="add_fingerprint_finished_button_text">Fertig</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Um Ihre Fingerabdruckdetails hinzuzufügen, legen Sie Ihren Finger auf den Sensor.
 Stellen Sie sicher, dass Ihr Finger die Innenkante des Sensors bedeckt"</string>
-  <string name="add_fingerprint_instruction_msg">Verwenden Sie Ihren Fingerabdruck, um Ihr Gerät zu entsperren und Zahlungen abzuschließen</string>
+  <string name="add_fingerprint_instruction_msg">Fingerabdrucksensor ist in der Home-Taste Ihres Geräts eingebaut</string>
   <string name="add_fingerprint_instruction_title">Legen Sie Ihren Finger auf den Scanner</string>
   <string name="add_fingerprint_name_suggest_text">Fingerabdruckbezeichnung</string>
   <string name="add_fingerprint_put_finger_edge_msg">Nach dem Drücken des Sensors, entfernen Sie den Finger und versuchen es erneut.</string>
