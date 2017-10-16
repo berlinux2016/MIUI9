@@ -1044,7 +1044,6 @@ Wenn Sie die mobile Daten wieder einschalten, kann der Mobilfunkanbieter zusätz
   <string name="install_title">Via USB installieren</string>
   <string name="installed">Installiert</string>
   <string name="installing">Installiere</string>
-  <string name="international_Ad">Hinzufügen</string>
   <string name="international_roaming_setting">Datenroaming</string>
   <string name="international_roaming_whitelist_count">%d Apps können auf die mobile Datenverbindung zugreifen, wenn Roaming aktiviert ist</string>
   <string name="intro_improve">Spiele auf Systemebene optimieren</string>
