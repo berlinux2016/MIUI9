@@ -295,6 +295,7 @@
   <string name="install_sucess">%s erfolgreich installiert</string>
   <string name="installed">Installiert</string>
   <string name="installing">Wird installiert</string>
+  <string name="international_Ad">Hinzufügen</string>
   <string name="item_title_process_mode">Aktion wählen</string>
   <string name="junk_tag_RF_EmptyFolders">Leere Ordner</string>
   <string name="junk_tag_RF_ImageThumbnails">Vorschaubilder</string>
