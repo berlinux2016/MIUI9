@@ -449,7 +449,6 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Nachrichten, Fotos und Videos bei Roaming automatisch abrufen</string>
   <string name="pref_summary_mx_feedback">Melden Sie Fehler und senden Sie Ihr Feedback direkt an Xiaomi</string>
   <string name="pref_summary_notification_body_enabled">Nachrichtenvorschau im Sperrbildschirm und Statusleiste anzeigen</string>
-  <string name="pref_summary_notification_body_enabled_when_secure">Nachrichtenvorschau im Gastmodus nicht anzeigen</string>
   <string name="pref_summary_off_system_mms_priority">Drittanbieterapps zum Senden/Empfangen von MMS benutzen</string>
   <string name="pref_summary_on_system_mms_priority">MIUI SMS/MMS-App als Standard zum Senden/Empfangen von MMS benutzen</string>
   <string name="pref_summary_send_delivery_reports">Sende Lieferbestätigungsmeldung an den Absender, wenn Sie eine Multimedia-Mitteilung erhalten</string>
@@ -642,7 +641,8 @@
   <string name="sp_mark_as_read_menu_title">Als gelesen markieren</string>
   <string name="sp_mark_as_read_progress">Als gelesen markieren…</string>
   <string name="sp_mark_as_read_title">Alle Benachrichtigungen als gelesen markieren ?</string>
-  <string name="sqlite_low_memory">Wenig Speicherplatz</string>
+  <string name="sqlite_disk_full">Der Speicherplatz auf Ihrem Gerät ist voll.</string>
+  <string name="sqlite_low_memory">Nicht genügend Speicherplatz</string>
   <string name="status_failed">Fehlgeschlagen</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Ausstehend</string>
@@ -748,9 +748,6 @@
   <string name="view_hms_attachment_fail">Bild konnte nicht geladen werden</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">Zeige Details</string>
-  <string name="voip_enable">Mi Message und Sprache</string>
-  <string name="voip_enable_popup_msg">"Tätigen Sie Anrufe zu anderen MIUI Benutzern, ohne Gebühren durch Ihren Anbieter. VoIP wird unterstützt durch Weihui. Siehe Weihui's Datenschutzrichtlinien."</string>
-  <string name="voip_enable_popup_msg2">Datenschutzrichtlinien</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Senden in %ds</string>
   <string name="wild_msg_processing">Verarbeitung…</string>
