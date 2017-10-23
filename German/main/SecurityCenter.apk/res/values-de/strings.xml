@@ -1176,6 +1176,8 @@ l  <string name="gamebooster_lowbattery_notification_summary">Laden Sie Ihr Ger√
   <string name="main_alert_message_slot_no_data_connection">"Der SIM-Kartenslot unterst√ºtzt keine
   mobile Datenverbindung"</string>
   <string name="main_bill_remained">Guthaben</string>
+  <string name="main_button_mi_sim_close">Mi SIM aktivieren</string>
+  <string name="main_button_mi_sim_open">Details anzeigen</string>
   <string name="main_button_idel_traffic">Nebenzeit</string>
   <string name="main_button_normal_traffic">Hauptzeit</string>
   <string name="main_button_usage_adjust">Datenverbrauch einstellen</string>
@@ -1184,6 +1186,7 @@ l  <string name="gamebooster_lowbattery_notification_summary">Laden Sie Ihr Ger√
   <string name="main_button_usage_adjusting_bill">Wird aufgeladen‚Ä¶</string>
   <string name="main_button_usage_package_setting">Datenverbrauch einstellen</string>
   <string name="main_daily_package">T√§gliches Datenvolumen</string>
+  <string name="main_indicator_title">Warte auf Aktivierung</string>
   <string name="main_leisure_remained">Bis zur Verbrauchsgrenze verbleiben</string>
   <string name="main_message_no_package_by_dual">Datenverbrauchsgrenze %s</string>
   <string name="main_month_total_used">Verbraucht in diesem Monat</string>
@@ -1219,6 +1222,7 @@ l  <string name="gamebooster_lowbattery_notification_summary">Laden Sie Ihr Ger√
   um zu kalibrieren"</string>
   <string name="main_tc_wait_result">"Wird auf Antwort des
   Mobilfunkanbieters gewartet"</string>
+  <string name="main_tobe_added_desc">Mobile Daten f√ºr ¬•0.03/MB</string>
   <string name="main_today_used">Heute verbraucht</string>
   <string name="main_toolbar_firewall">Beschr√§nken</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobile Daten</string>
@@ -2825,6 +2829,8 @@ l  <string name="gamebooster_lowbattery_notification_summary">Laden Sie Ihr Ger√
   <string name="virus_update_tips_title">Warnung</string>
   <string name="virus_wait_network_dialog_message">Ihr Telefon ist nicht mit dem WLAN verbunden. Es werden mobile Daten verwendet. Fortfahren?</string>
   <string name="voltage_symbol">V</string>
+  <string name="vpn_disabled_by_user">Designierte Datenverbindung ist ausgeschaltet</string>
+  <string name="vpn_unbale_get_phonenum">"Telefonnummer kann bei Designierter Datenverbindung nicht abgerufen werden"</string>
   <string name="wakepath_confirm_start_activity">%1$s erlauben %2$s zu √∂ffnen?</string>
   <string name="warning_open_mi_sim">Aktivieren Sie Mi SIM</string>
   <string name="website">Website</string>
