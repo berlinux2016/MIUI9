@@ -700,14 +700,6 @@
     <item>Spanisch (Amerika)</item>
     <item>Portugisisch (Brasilien)</item>
   </string-array>
-  <string-array name="standard_configuration_version_description_primary">
-    <item>Prozessor</item>
-    <item>Akkukapazität</item>
-    <item>Rückkamera</item>
-    <item>Displaygröße</item>
-    <item>Auflösung</item>
-    <item>Android-Version</item>
-  </string-array>
   <string-array name="startup_hips_action">
     <item>Zulassen</item>
     <item>Verweigern</item>
