@@ -71,6 +71,7 @@
   <string name="account_setup_basics_email_label">Konto ID eingeben</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Anmeldung über das aktuelle Netzwerk</string> 
   <string name="account_setup_basics_manual_setup_action">Manuell einrichten</string>
+  <string name="account_setup_basics_mi_mail_login_help">Mi Mail Login erfolgreich, überprüfen Sie die SMS und aktivieren Sie den Link um Mails senden und erhalten zu können</string>  
   <string name="account_setup_basics_password_label">Passwort eingeben</string>
   <string name="account_setup_basics_title">Kontoeinrichtung</string>
   <string name="account_setup_check_settings_check_incoming_msg">Servereinstellungen werden überprüft…</string>
@@ -597,6 +598,7 @@
   <string name="meeting_canceled">Abgebrochene: %s</string>
   <string name="meeting_declined">Abgelehnt: %s</string>
   <string name="meeting_recurring">Wann: %s (wiederkehrend)</string>
+  <string name="meeting_responded_failed">Antwort fehlgeschlagen</string>
   <string name="meeting_tentative">Vorläufig: %s</string>
   <string name="meeting_updated">Aktualisiert: %s</string>
   <string name="meeting_when">Wann: %s</string>
@@ -994,7 +996,7 @@ um Erinnerungen über Zahlungen und Reisen zu erhalten"</string>
   <string name="special_text_sender_zh">Absender</string>
   <string name="storage">Speicher</string>
   <string name="str_select_all">Alles auswählen</string>
-  <string name="str_select_none">Keine auswählen</string>
+  <string name="str_select_none">Alles abwählen</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Betreff</string>
   <string name="sync_contacts_fail_per_content">Beantrage Kontaktberechtigungen, hier klicken um diese zu beantragen</string>
