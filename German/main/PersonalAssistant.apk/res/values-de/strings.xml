@@ -135,7 +135,7 @@
   <string name="express_taobao">Taobao</string>
   <string name="express_tmall">Tmall</string>
   <string name="facebook_parent">Facebook</string>
-  <string name="facebook_post">Post</string>
+  <string name="facebook_post">Posten</string>
   <string name="fav_category_article">Artikel</string>
   <string name="fav_category_shopping">Einkaufen</string>
   <string name="fav_category_video">Videos</string>
@@ -241,7 +241,7 @@
   <string name="mi_function">Verknüpfungen</string>
   <string name="mi_payment">Meine Zahlungen</string>
   <string name="mi_payment_setting_brief">Infos über Ihre Zahlungen werden hier gesammelt.</string>
-  <string name="mi_payment_setting_brief_detail">Infos über Ihre Zahlungen von Messanger-Apps werden hier gesammelt.</string>
+  <string name="mi_payment_setting_brief_detail">Infos über Ihre Zahlungen von Messenger-Apps werden hier gesammelt.</string>
   <string name="mi_sport">Schrittzähler</string>
   <string name="mi_sport_go_install">Herunterladen</string>
   <string name="mi_wallet">Mi Wallet</string>
