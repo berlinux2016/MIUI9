@@ -1291,25 +1291,22 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="search_category_article">Artikel</string>
   <string name="search_category_shopping">Shopping</string>
   <string name="search_category_video">Videos</string>
-<!--   <string name="search_change_header">Replace cover image</string>
-  <string name="search_clear_header">Remove cover image</string>
-  <string name="search_hint">Search items on device and online</string>
- -->
+  <string name="search_change_header">Titelbild ersetzen</string>
+  <string name="search_clear_header">Titelbild entfernen</string>
+  <string name="search_hint">Online und auf dem Gerät nach Elementen suchen</string>
   <string name="search_label">Suche…</string>
   <string name="search_setting_description">Titel in Favoriten</string>
   <string name="search_tip">Suche…</string>
   <string name="security">Sicherheit</string>
   <string name="send_action_title">Zu den Favoriten hinzufügen</string>
-<!--   <string name="send_shortcut_failed">"Couldn't send"</string>
-  <string name="send_shortcut_success">Placed on Home screen</string>
- -->
+  <string name="send_shortcut_failed">Senden fehlgeschlagen</string>
+  <string name="send_shortcut_success">Verknüpfung auf Startbildschirm erstelln</string>
   <string name="service_unavailiable">Netzwerkverbindung prüfen und erneut versuchen</string>
   <string name="setting_address">Häufig besuchte Orte hinzufügen</string>
-<!--   <string name="setting_authorization_canceled_dialog_cancel">Cancel</string>
-  <string name="setting_authorization_canceled_dialog_message">MIUI will no longer record your payments and this card will be removed.</string>
-  <string name="setting_authorization_canceled_dialog_ok">Remove card</string>
-  <string name="setting_authorization_canceled_dialog_title">Remove card</string>
- -->
+  <string name="setting_authorization_canceled_dialog_cancel">Abbrechen</string>
+  <string name="setting_authorization_canceled_dialog_message">MIUI wird Ihre Zahlungen nicht weiter aufzeichnen und diese Karte wird gelöscht.</string>
+  <string name="setting_authorization_canceled_dialog_ok">Karte löschen</string>
+  <string name="setting_authorization_canceled_dialog_title">Karte löschen</string>
   <string name="setting_basketball_brief_detail">Bis zu 4 Basketballmannschaften folgen und Infos und Spielergebnisse erhalten.</string>
   <string name="setting_booking">Buchungen</string>
   <string name="setting_booking_brief">Bahn-, Flug-, Kinokarten und Hotelreservierungen</string>
@@ -1363,17 +1360,15 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="setting_stock">Vorräte</string>
   <string name="setting_stock_brief">Tägliche Fortschrittsanzeige der Unternehmen, die Sie verfolgen.</string>
   <string name="setting_stock_brief_list">Tägliches Briefing</string>
-<!--   <string name="setting_switch_toast_close">"Payments aren't recorded"</string>
-  <string name="setting_switch_toast_open">Payments are recorded</string>
- -->
+  <string name="setting_switch_toast_close">Zahlungen werden nicht aufgezeichnet</string>
+  <string name="setting_switch_toast_open">Zahlungen werden aufgezeichnet</string>
   <string name="settings">Einstellungen</string>
   <string name="settings_subtitle">Benachrichtigungen erhalten, nachdem Sie etwas zu den Favoriten hinzugefügt haben</string>
   <string name="settings_title">Benachrichtigen über das Hinzufügen zu Favoriten</string>
   <string name="share_title">URL senden per</string>
   <string name="shortcut">Verknüpfungen</string>
   <string name="show_more">Mehr anzeigen</string>
-<!--   <string name="smart_assistant_enter_tip">桌面信息助手</string>
- -->
+  <string name="smart_assistant_enter_tip">Smart Assistant</string>
   <string name="sms_address">Adresse</string>
   <string name="sms_airline">Fluggesellschaft</string>
   <string name="sms_button_add_calendar">Zum Kalender hinzufügen</string>
@@ -1400,10 +1395,9 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="spending_setting_brief">Zahlungsdetails</string>
   <string name="sport">Sport</string>
   <string name="sport_open">Karte für Mi Fit</string>
-<!--   <string name="start_download">开始下载...</string>
-  <string name="step_cal_unit">千卡</string>
+  <string name="start_download">Starte Download...</string>
+  <string name="step_cal_unit">Kcal</string>
   <string name="step_km">km</string>
- -->
   <string name="step_setting_tip">Quelle für Schrittzählung</string>
   <string name="step_vip_action_bar">Schritte</string>
   <string name="steps">Schritt</string>
@@ -1436,27 +1430,25 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="system_favorite_dialog_negative">Abbrechen</string>
   <string name="system_favorite_dialog_positive">Erlauben</string>
   <string name="system_favorite_dialog_title_confirm">Favoriten</string>
-<!--   <string name="take_off">Take off</string>
-  <string name="taobao_auth_login">淘宝用户快速登录</string>
-  <string name="taobao_protocol">淘宝服务协议</string>
- -->
+  <string name="take_off">Start</string>
+  <string name="taobao_auth_login">Taobao Schnellanmeldung</string>
+  <string name="taobao_protocol">Taobao Servicevereinbarung</string>
   <string name="taxi">Taxi</string>
   <string name="taxi_book">Ein Taxi rufen</string>
   <string name="taxi_card_departure">Aktueller Standort</string>
   <string name="taxi_local">Startpunkt</string>
   <string name="taxi_open">Karte für Taxis</string>
   <string name="taxi_setting_brief">Mit einem Fingertipp zum Taxi.</string>
-<!--   <string name="taxi_target">Destination     </string>
-  <string name="temp_support_xiaomi">暂时仅支持小米手环</string>
-  <string name="template_args_invalid">上下文参数不合法</string>
-  <string name="template_bussiness_data_error">服务端返回数据解析异常，无法展示界面</string>
-  <string name="template_data_error">人气太旺啦, 稍候再试试</string>
-  <string name="template_error">数据出错</string>
-  <string name="template_loading">加载中...</string>
-  <string name="template_network_error_try_later">网络错误，请稍候再试</string>
-  <string name="template_retry_button">重试</string>
-  <string name="template_update_error">模板更新失败</string>
- -->
+  <string name="taxi_target">Zielort     </string>
+  <string name="temp_support_xiaomi">Vorrübergehend wird nur das Mi Band unterstützt</string>
+  <string name="template_args_invalid">Der Kontextparameter ist ungültig</string>
+  <string name="template_bussiness_data_error">Der Server gibt eine anormale Datenanalyse zurück und kann die Schnittstelle nicht anzeigen</string>
+  <string name="template_data_error">Popularity ist zu beschäftigt, später erneut versuchen</string>
+  <string name="template_error">Datenfehler</string>
+  <string name="template_loading">Lade...</string>
+  <string name="template_network_error_try_later">Netzwerkfehler. Später erneut versuchen</string>
+  <string name="template_retry_button">Erneut versuchen</string>
+  <string name="template_update_error">Update fehlgeschlagen</string>
   <string name="time_just_now">Jetzt gerade</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
@@ -1486,9 +1478,8 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="unusual_weather_setting_tip">Die Städte, die für die Warnungen verwendet werden, können in der Wetter-App geändert werden.</string>
   <string name="uploads_disabled">Dateien können nicht hochgeladen werden</string>
   <string name="user_id">Nutzer ID: %s</string>
-<!--   <string name="user_notice_title">Attention</string>
-  <string name="vr_pay_not_support">本次已创建的订单不支持VR支付，建议稍后进入订单列表支付。</string>
- -->
+  <string name="user_notice_title">Achtung</string>
+  <string name="vr_pay_not_support">Dieser Auftrag unterstützt keine VR-Zahlung. Öffnen Sie die Bestellliste um später zu bezahlen</string>
   <string name="walk">Gehen</string>
   <string name="weibo_name">Neuer Post</string>
   <string name="weibo_parent">Weibo</string>
