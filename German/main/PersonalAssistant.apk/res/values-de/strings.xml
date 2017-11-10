@@ -315,7 +315,7 @@
   <string name="call">Anrufen</string>
   <string name="cannot_get_download_url">Adresse für den Sicherheitsdienst-Download kann nicht abgerufen werden.</string>
   <string name="card_agenda_settings">Einstellungen</string>
-  <string name="card_already_fly">Erfolgreich abgefahren</string>
+  <string name="card_already_fly">Erfolgreich gestartet</string>
   <string name="card_book_all">Alle Buchungen</string>
   <string name="card_book_nodata">Keine Buchungen</string>
   <string name="card_bookall_flight">Flugtickets</string>
@@ -360,7 +360,7 @@
   <string name="category_tenement">Mieten</string>
   <string name="category_traffic">Transport</string>
   <string name="check_network">Netzwerkeinstellungen prüfen</string>
-  <string name="check_network_retry">Netzwerkeinstellungen überprüfen und erneut versuchen</string>
+  <string name="check_network_retry">Netzwerkeinstellungen prüfen und erneut versuchen</string>
   <string name="choose_city">Stadt auswählen</string>
   <string name="choose_upload">Dateien zum Hochladen auswählen</string>
   <string name="city_name_spell">Ort eingeben</string>
@@ -469,7 +469,7 @@
   <string name="exception_network_slow">Netzwerkverbindung ist langsam</string>
   <string name="exception_too_many_people_wait_retry">Popularity ist zu beschäftigt, später erneut versuchen</string>
   <string name="exercise_setting_brief">Entfernungen messen und Ihre täglichen Schritte zählen</string>
-  <string name="exercise_setting_misport_detail">Entfernungen messen und Ihre täglichen Schritte zählen (Mi Fit den Autostart unter Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Autostart erlauben).</string>
+  <string name="exercise_setting_misport_detail">Entfernungen messen und Ihre täglichen Schritte zählen (Mi Fit den Autostart erlauben unter Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Autostart).</string>
   <string name="express">Expressversand</string>
   <string name="express_add_new_address">Adresse hinzufügen</string>
   <string name="express_address_delete_warning">Diese Adresse löschen?</string>
@@ -567,7 +567,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="express_no_order">Keine Bestellungen</string>
   <string name="express_no_order_info">Keine Bestellinformation</string>
   <string name="express_not_authorized">Eingeschränkt</string>
-  <string name="express_num_setting_des">Bestellnummern von den auf Ihrem Handy installierten Lieferanwendungen erhalten.</string>
+  <string name="express_num_setting_des">Bestellnummern von den auf Ihrem Telefon installierten Lieferanwendungen erhalten.</string>
   <string name="express_num_setting_title">Bestellinformation aufrufen</string>
   <string name="express_number_txt">Bestellnummer:</string>
   <string name="express_open">Karte mit Sendungsverfolgung anzeigen</string>
@@ -910,7 +910,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="map_title_baidu_middle">Über</string>
   <string name="map_title_blocked">Ungewöhnliche Stauung</string>
   <string name="map_title_blocked_last">KM ungewöhnliche Stauung</string>
-  <string name="map_title_congestion">Es gibt Straßen Staus</string>
+  <string name="map_title_congestion">Es gibt Straßenstaus</string>
   <string name="map_title_congestion_last">Gestaute Kilometer</string>
 <!--   <string name="map_title_home">回家</string>
   <string name="map_title_hours">小时</string>
@@ -1009,8 +1009,8 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="miuishare_account_login_cancel">Abbrechen</string>
   <string name="miuishare_account_login_confirmation">Anmeldung erforderlich</string>
   <string name="miuishare_account_login_ok">Anmelden</string>
-  <string name="miuishare_account_need_activate">Das Teilen über Weibo setzt vorraus, dass Ihr Weibo Konto mit dem Xiaomi Konto verbunden ist, welches aktuell nicht aktiviert ist. Konto jetzt aktivieren?</string>
-  <string name="miuishare_account_need_login">Das Teilen über Weibo setzt vorraus, dass Ihr Weibo Konto mit dem Xiaomi Konto verbunden ist, mit dem Sie aktuell angemeldet sind. Jetzt anmelden und teilen?</string>
+  <string name="miuishare_account_need_activate">Das Teilen über Weibo setzt voraus, dass Ihr Weibo Konto mit dem Xiaomi Konto verbunden ist, welches aktuell nicht aktiviert ist. Konto jetzt aktivieren?</string>
+  <string name="miuishare_account_need_login">Das Teilen über Weibo setzt voraus, dass Ihr Weibo Konto mit dem Xiaomi Konto verbunden ist, mit dem Sie aktuell angemeldet sind. Jetzt anmelden und teilen?</string>
   <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">Netzwerkverbindung benötigt zum Teilen</string>
   <string name="miuishare_publish">Senden</string>
@@ -1110,7 +1110,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="navigation_search_no_city_list">Keine Städte</string>
   <string name="navigation_search_positioning">Standortinformationen abrufen…</string>
   <string name="navigation_search_positioning_failed">Ort konnte nicht gefunden werden, Stadt manuell auswählen</string>
-  <string name="network_access_denied">Keine Netzwerkverbindung, stimmen Sie zuerst den Allgemeinen Geschäftsbedingungen zu</string>
+  <string name="network_access_denied">Keine Netzwerkverbindung, stimmen Sie zuerst den Allg. Geschäftsbedingungen zu</string>
   <string name="network_error">Netzwerkfehler</string>
   <string name="network_exception">Popularity ist zu beschäftigt, später erneut versuchen.</string>
   <string name="network_tip">Keine Netzwerkverbindung.</string>
@@ -1119,7 +1119,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="no_install">Nicht installiert</string>
   <string name="no_more_result">Keine weiteren Elemente</string>
   <string name="no_settings">Nicht festgelegt</string>
-  <string name="not_install_c1">Diese App ist nicht auf Ihrem Handy installiert. Herunterladen und installieren?</string>
+  <string name="not_install_c1">Diese App ist nicht auf Ihrem Telefon installiert. Herunterladen und installieren?</string>
   <string name="not_install_c3">Herunterladen</string>
   <string name="not_install_c4">Nein danke</string>
   <string name="not_installed">Nicht installiert</string>
@@ -1352,7 +1352,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="setting_place">Häufig besuchte Orte hinzufügen, um Verkehr und Routenvorschläge zu sehen</string>
   <string name="setting_place_next">Weiter</string>
   <string name="setting_pref_confirm">Fertig</string>
-  <string name="setting_school_label">Arbeit/Schuladresse hinzufügen</string>
+  <string name="setting_school_label">Arbeits-/Schuladresse hinzufügen</string>
   <string name="setting_stock">Vorräte</string>
   <string name="setting_stock_brief">Tägliche Fortschrittsanzeige der Unternehmen, die Sie verfolgen.</string>
   <string name="setting_stock_brief_list">Tägliches Briefing</string>
@@ -1375,7 +1375,7 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="sms_film">Film</string>
   <string name="sms_film_see">Ansehen</string>
   <string name="sms_hao">Sitz</string>
-  <string name="sms_happened">Vorrüber</string>
+  <string name="sms_happened">Vorüber</string>
   <string name="sms_hotel">Hotel</string>
   <string name="sms_hour_suffix">std übrig</string>
   <string name="sms_minute_suffix">min übrig</string>
@@ -1401,11 +1401,11 @@ Sendungsverfolgungsnummer prüfen."</string>
   <string name="steps_get_misport">Mi Fit installieren</string>
   <string name="steps_misport">Mi Fit ausgewählt</string>
   <string name="steps_misport_dialog_content">Sie haben Mi Fit noch nicht installiert. Um Schritte zählen zu können, müssen Sie die App herunterladen und installieren.</string>
-  <string name="steps_misport_dialog_title">Sie haben Mi Fit noch nicht installiert..</string>
+  <string name="steps_misport_dialog_title">Sie haben Mi Fit noch nicht installiert…</string>
   <string name="steps_misport_download">Herunterladen</string>
   <string name="steps_misport_go">Erlauben</string>
   <string name="steps_misport_ok">Verstanden</string>
-  <string name="steps_misport_tip">Bei Mi Fit mit Ihrem Mi Konto anmelden und den Autostart unter Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Autostart erlauben.</string>
+  <string name="steps_misport_tip">Bei Mi Fit mit Ihrem Mi Konto anmelden und den Autostart erlauben unter Sicherheit &gt; Apps verwalten &gt; Berechtigungen &gt; Autostart.</string>
   <string name="steps_sport">Mi Fit</string>
   <string name="steps_sport_des">Erhalten Sie genaue Informationen von der Mi Fit App.</string>
   <string name="steps_vip">Schritte</string>
