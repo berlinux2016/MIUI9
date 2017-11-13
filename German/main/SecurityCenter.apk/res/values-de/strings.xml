@@ -217,7 +217,7 @@
   <string name="app_manager_disable_dlg_title">Systemapp deaktivieren?</string>
   <string name="app_manager_disable_text">Deaktivieren</string>
   <string name="app_manager_disabled">Deaktiviert</string>
-  <string name="app_manager_disabled_by_admin">Durch Admin deaktiviert</string> 
+  <string name="app_manager_disabled_by_admin">Durch Admin deaktiviert</string>
   <string name="app_manager_dlg_cancel">Abbrechen</string>
   <string name="app_manager_dlg_ok">OK</string>
   <string name="app_manager_enable_text">Deaktiviert</string>
@@ -234,7 +234,7 @@
   <string name="app_manager_go_to_manger_app">Verwalten</string>
   <string name="app_manager_have_not_consume">Keine</string>
   <string name="app_manager_hide_system_server">Systemdienste ausblenden</string>
-  <string name="app_manager_install_other_app">Apps aus unbekannten Quellen installieren</string> 
+  <string name="app_manager_install_other_app">Apps aus unbekannten Quellen installieren</string>
   <string name="app_manager_instruction">Anleitung</string>
   <string name="app_manager_loading_data">Daten werden geladen…</string>
   <string name="app_manager_manage_space">Speicherplatz verwalten</string>
@@ -245,7 +245,7 @@
   <string name="app_manager_net_control_title">Datenverbrauch einschränken</string>
   <string name="app_manager_net_mobile">Mobile Daten</string>
   <string name="app_manager_net_wifi">WLAN</string>
-  <string name="app_manager_not_allow">Nein</string> 
+  <string name="app_manager_not_allow">Nein</string>
   <string name="app_manager_not_record">Keine Einträge vorhanden</string>
   <string name="app_manager_notify_bar">Appsymbol</string>
   <string name="app_manager_notify_floating">Schwebende Benachrichtigungen</string>
@@ -783,7 +783,7 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="dialog_msg_auto_start_declare">Einige Sicherheitsapps können fälschlicherweise angeben, dass MIUI Ihren Start verhindert. Um die Berechtigungen, die einzelnen Anwendungen erteilt wurden, zu überprüfen, gehen Sie zu Einstellungen &gt; Apps.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zahlungssicherheitscheck ausschalten?</string>
   <string name="dialog_msg_stop_virus_scan">Sind Sie sicher?</string>
-  <string name="dialog_no_longer_alert">Nicht erneut anzeigen</string> 
+  <string name="dialog_no_longer_alert">Nicht erneut anzeigen</string>
   <string name="dialog_remobe_luckymoney_cancle">Alt</string>
   <string name="dialog_remobe_luckymoney_ok">Neu</string>
   <string name="dialog_remove_luckymoney">Sie können den neuen intergrierten Roten Umschlagsassistenten oder den vorhandenen verwenden. Welchen bevorzugen Sie?</string>
@@ -2233,9 +2233,9 @@ Wenn Sie die mobilen Daten wieder einschalten, kann der Mobilfunkanbieter zusät
   <string name="sorted_dialog_title">Sortieren nach</string>
   <string name="sp_back_title_text_zero">Sicher</string>
   <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuell unsichere Zahlungen</string>
-  <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem öffentlichen WLAN verbunden, das unsicher sein kann. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>  
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem öffentlichen WLAN verbunden, das unsicher sein kann. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>
   <string name="sp_background_risk_dialog_title">Achtung</string>
-  <string name="sp_background_risk_dialog_title_wifi_approve">Meldung über öffentliches WLAN</string> 
+  <string name="sp_background_risk_dialog_title_wifi_approve">Meldung über öffentliches WLAN</string>
   <string name="sp_background_risk_type_messaging">Systemnachrichten-App wurde ausgetauscht</string>
   <string name="sp_background_risk_type_root">System ist gerootet</string>
   <string name="sp_background_risk_type_sign">Inoffizielle App läuft im Hintergrund</string>
