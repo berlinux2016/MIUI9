@@ -26,7 +26,7 @@
   </plurals>
   <plurals name="daily_sim_over_limit_dialog_message">
     <item quantity="other">
-      "Sie haben bereits %s tägliche Datenlimits verwendet.
+      "Sie haben bereits %s vom täglichen Datenlimit verwendet.
 
       Wenn Sie Mobile Daten wieder einschalten, kann Ihr Netzbetreiber zusätzliche Daten berechnen."
     </item>
@@ -98,11 +98,11 @@
   </plurals>
   <plurals name="white_list_risk_app_header">
     <item quantity="other">Gefährliche Apps: %d</item>
-    <item quantity="one">Gefährliche App: Eine</item>
+    <item quantity="one">Gefährliche App: %d</item>
   </plurals>
   <plurals name="white_list_trojan_header">
     <item quantity="other">Trojaner: %d</item>
-    <item quantity="one">Trojaner: Einer</item>
+    <item quantity="one">Trojaner: %d</item>
   </plurals>
   <plurals name="hints_traffic_enable_title">
     <item quantity="other">Datenverbrauch für %d Apps wird nicht aufgezeichnet</item>
@@ -134,15 +134,15 @@
   </plurals>
   <plurals name="power_center_battery_day">
     <item quantity="other">"%d Tage "</item>
-    <item quantity="one">"Ein Tag "</item>
+    <item quantity="one">"%d Tag "</item>
   </plurals>
   <plurals name="power_center_battery_hour">
     <item quantity="other">"%d Std "</item>
-    <item quantity="one">"Eine Std "</item>
+    <item quantity="one">"%d Std "</item>
   </plurals>
   <plurals name="power_center_battery_minute">
     <item quantity="other">"%d Min "</item>
-    <item quantity="one">"Eine Min "</item>
+    <item quantity="one">"%d Min "</item>
   </plurals>
   <plurals name="deep_clean_auto_memory_clean">
     <item quantity="other">In %1$d Minuten</item>
@@ -223,15 +223,15 @@
   </plurals>
   <plurals name="hints_handle_item_text_risk_number">
     <item quantity="other">%d Risiken,</item>
-    <item quantity="one">Ein Risiko,</item>
+    <item quantity="one">%d Risiko,</item>
   </plurals>
   <plurals name="hints_handle_item_text_virus_number">
     <item quantity="other">%d Trojaner,</item>
-    <item quantity="one">Ein Trojaner,</item>
+    <item quantity="one">%d Trojaner,</item>
   </plurals>
   <plurals name="hints_scan_result_virus_number">
     <item quantity="other">%d Risiken</item>
-    <item quantity="one">Ein Risiko</item>
+    <item quantity="one">%d Risiko</item>
   </plurals>
   <plurals name="hints_scan_result_danger">
     <item quantity="other">%d Risiken gefunden, jetzt beheben</item>
@@ -279,11 +279,11 @@
   </plurals>
   <plurals name="number_masked_text">
      <item quantity="other">%d Benachrichtigungen wurden ausgeblendet</item>
-     <item quantity="one">Eine Benachrichtigung wurde ausgeblendet</item>
+     <item quantity="one">%d Benachrichtigung wurde ausgeblendet</item>
   </plurals>
   <plurals name="number_to_mask_text">
      <item quantity="other">%d Benachrichtigungen werden anzeigt</item>
-     <item quantity="one">Eine Benachrichtigung wird angezeigt</item>
+     <item quantity="one">%d Benachrichtigung wird angezeigt</item>
   </plurals>  
   <plurals name="find_applications">
     <item quantity="other">%d Apps durchsuchen</item>
@@ -324,7 +324,7 @@
   </plurals>
   <plurals name="optimize_result_button_add_score">
     <item quantity="other">+%d</item>
-    <item quantity="one">+1</item>
+    <item quantity="one">+%d</item>
   </plurals>
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">%d Berechtigungen erlaubt</item>
@@ -336,7 +336,7 @@
   </plurals>
   <plurals name="result_virus_header">
     <item quantity="other">%d Viren und unsichere Apps gefunden</item>
-    <item quantity="one">Einen Virus/eine App gefunden</item>
+    <item quantity="one">%d Virus/App gefunden</item>
   </plurals>
   <plurals name="result_sign_header">
     <item quantity="other">%d inoffizielle Apps gefunden</item>
